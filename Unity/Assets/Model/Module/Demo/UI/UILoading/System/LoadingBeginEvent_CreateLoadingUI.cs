@@ -7,8 +7,7 @@ namespace ETModel
     {
         public override void Run()
         {
-   //         UI ui = UILoadingFactory.Create();
-			//Game.Scene.GetComponent<UIComponent>().Add(ui);
+            FUI.Open(typeof(LoadingUI));
         }
     }
 }

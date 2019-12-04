@@ -5,6 +5,7 @@
     {
         public override void Run()
         {
+            FUI.Close(typeof(LoadingUI));
 			//Game.Scene.GetComponent<UIComponent>().Remove(UIType.UILoading);
         }
     }

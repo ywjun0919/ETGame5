@@ -7,7 +7,7 @@ using FairyGUI;
 
 namespace ETModel
 {
-    public static class UI
+    public static class FUI
     {
         public static BaseUIForms Open(Type type)
         {

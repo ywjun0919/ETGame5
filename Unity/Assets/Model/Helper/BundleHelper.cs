@@ -15,9 +15,10 @@ namespace ETModel
 				{
 					using (BundleDownloaderComponent bundleDownloaderComponent = Game.Scene.AddComponent<BundleDownloaderComponent>())
 					{
+						Game.EventSystem.Run(EventIdType.LoadingBegin);
 						await bundleDownloaderComponent.StartAsync();
 						
-						Game.EventSystem.Run(EventIdType.LoadingBegin);
+						//Game.EventSystem.Run(EventIdType.LoadingBegin);
 						
 						await bundleDownloaderComponent.DownloadAsync();
 					}

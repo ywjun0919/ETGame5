@@ -6,8 +6,12 @@ namespace ETModel
 {
 	public class Init : MonoBehaviour
 	{
-		private void Start()
+
+        public bool IsAsync;
+
+        private void Start()
 		{
+            Define.IsAsync = IsAsync;
 			this.StartAsync().Coroutine();
 		}
 		
