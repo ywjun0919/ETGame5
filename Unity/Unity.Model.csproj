@@ -759,37 +759,37 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="ICSharpCode.SharpZipLib">
-      <HintPath>E:/FrameWork/ETGame5/ET/Unity/Assets/Plugins/ICSharpCode.SharpZipLib.dll</HintPath>
+      <HintPath>E:/FrameWork/ETGame5/ETGame5/Unity/Assets/Plugins/ICSharpCode.SharpZipLib.dll</HintPath>
     </Reference>
     <Reference Include="Pathfinding.ClipperLib">
-      <HintPath>E:/FrameWork/ETGame5/ET/Unity/Assets/Plugins/AstarPathfindingProject/Clipper/Pathfinding.ClipperLib.dll</HintPath>
+      <HintPath>E:/FrameWork/ETGame5/ETGame5/Unity/Assets/Plugins/AstarPathfindingProject/Clipper/Pathfinding.ClipperLib.dll</HintPath>
     </Reference>
     <Reference Include="Pathfinding.Ionic.Zip.Reduced">
-      <HintPath>E:/FrameWork/ETGame5/ET/Unity/Assets/Plugins/AstarPathfindingProject/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
+      <HintPath>E:/FrameWork/ETGame5/ETGame5/Unity/Assets/Plugins/AstarPathfindingProject/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
     </Reference>
     <Reference Include="Pathfinding.Poly2Tri">
-      <HintPath>E:/FrameWork/ETGame5/ET/Unity/Assets/Plugins/AstarPathfindingProject/Poly2Tri/Pathfinding.Poly2Tri.dll</HintPath>
+      <HintPath>E:/FrameWork/ETGame5/ETGame5/Unity/Assets/Plugins/AstarPathfindingProject/Poly2Tri/Pathfinding.Poly2Tri.dll</HintPath>
     </Reference>
     <Reference Include="JetBrains.Rider.Unity.Editor.Plugin.Repacked">
-      <HintPath>E:/FrameWork/ETGame5/ET/Unity/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll</HintPath>
+      <HintPath>E:/FrameWork/ETGame5/ETGame5/Unity/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll</HintPath>
     </Reference>
     <Reference Include="NPOI">
-      <HintPath>E:/FrameWork/ETGame5/ET/Unity/Assets/Plugins/Editor/npoi/NPOI.dll</HintPath>
+      <HintPath>E:/FrameWork/ETGame5/ETGame5/Unity/Assets/Plugins/Editor/npoi/NPOI.dll</HintPath>
     </Reference>
     <Reference Include="NPOI.OOXML">
-      <HintPath>E:/FrameWork/ETGame5/ET/Unity/Assets/Plugins/Editor/npoi/NPOI.OOXML.dll</HintPath>
+      <HintPath>E:/FrameWork/ETGame5/ETGame5/Unity/Assets/Plugins/Editor/npoi/NPOI.OOXML.dll</HintPath>
     </Reference>
     <Reference Include="NPOI.OpenXml4Net">
-      <HintPath>E:/FrameWork/ETGame5/ET/Unity/Assets/Plugins/Editor/npoi/NPOI.OpenXml4Net.dll</HintPath>
+      <HintPath>E:/FrameWork/ETGame5/ETGame5/Unity/Assets/Plugins/Editor/npoi/NPOI.OpenXml4Net.dll</HintPath>
     </Reference>
     <Reference Include="NPOI.OpenXmlFormats">
-      <HintPath>E:/FrameWork/ETGame5/ET/Unity/Assets/Plugins/Editor/npoi/NPOI.OpenXmlFormats.dll</HintPath>
-    </Reference>
-    <Reference Include="FairyGUI">
-      <HintPath>E:/FrameWork/ETGame5/ET/Unity/Assets/Plugins/FairyGUI/FairyGUI.dll</HintPath>
+      <HintPath>E:/FrameWork/ETGame5/ETGame5/Unity/Assets/Plugins/Editor/npoi/NPOI.OpenXmlFormats.dll</HintPath>
     </Reference>
     <Reference Include="DOTween">
-      <HintPath>E:/FrameWork/ETGame5/ET/Unity/Assets/Plugins/FairyGUI/DOTween.dll</HintPath>
+      <HintPath>E:/FrameWork/ETGame5/ETGame5/Unity/Assets/Plugins/FairyGUI/DOTween.dll</HintPath>
+    </Reference>
+    <Reference Include="FairyGUI">
+      <HintPath>E:/FrameWork/ETGame5/ETGame5/Unity/Assets/Plugins/FairyGUI/FairyGUI.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Unity2018/Unity/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>

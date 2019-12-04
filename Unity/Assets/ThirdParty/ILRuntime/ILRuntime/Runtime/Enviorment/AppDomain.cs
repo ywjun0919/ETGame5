@@ -157,6 +157,20 @@ namespace ILRuntime.Runtime.Enviorment
                 return dele;
             });
 
+            #region FariyGUI
+
+            dMgr.RegisterDelegateConvertor<FairyGUI.EventCallback0>((act) =>
+            {
+                return new FairyGUI.EventCallback0(() =>
+                {
+                    ((Action)act)();
+                });
+
+            });
+
+
+            #endregion
+
             RegisterCrossBindingAdaptor(new Adaptors.AttributeAdaptor());
 
             debugService = new Debugger.DebugService(this);
