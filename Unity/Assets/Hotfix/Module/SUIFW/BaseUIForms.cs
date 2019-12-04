@@ -274,6 +274,10 @@ namespace ETHotfix
         #endregion
 
 
+        public GObject GetChild(string name)
+        {
+            return this.GObject.asCom.GetChild(name);
+        }
 
 
     }//classend

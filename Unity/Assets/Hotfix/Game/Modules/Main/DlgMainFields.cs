@@ -10,11 +10,9 @@ namespace ETHotfix
 
         public override void ExportFields()
         {
-            base.ExportFields();
-            GComponent gcmp = this.GObject.asCom;
-            btn_CreateRoom = gcmp.GetChild("CreateRoomBtn").asButton;
-            btn_EnterRoom = gcmp.GetChild("EnterRoomBtn").asButton;
-            btn_Daikai = gcmp.GetChild("DaikaiBtn").asButton;
+            btn_CreateRoom = this.GetChild("CreateRoomBtn").asButton;
+            btn_EnterRoom = this.GetChild("EnterRoomBtn").asButton;
+            btn_Daikai = this.GetChild("DaikaiBtn").asButton;
         }
     }
 }
