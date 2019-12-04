@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using FairyGUI;
 
 namespace ETHotfix
 { 
-    class DlgMain:BaseUIForms
+    partial class DlgMain:BaseUIForms
     {
         public DlgMain()
         {
@@ -15,6 +11,27 @@ namespace ETHotfix
             this.CurrentUIType.NeedClearingStack = true;
             this.CurrentUIType.UIForms_ShowMode = UIFormsShowMode.HideOther;
             this.CurrentUIType.UIForms_Type = UIFormsType.Normal;
+        }
+
+        public override void RegistUIEvents()
+        {
+            base.RegistUIEvents();
+            btn_CreateRoom.onClick.Add(OnBtn_CreateRoom);
+            btn_EnterRoom.onClick.Add(OnBtn_EnterRoom);
+            btn_Daikai.onClick.Add(OnBtn_Daikai);
+        }
+
+        private void OnBtn_CreateRoom()
+        {
+            Log.Debug("OnBtn_CreateRoom");
+        }
+        private void OnBtn_EnterRoom()
+        {
+            Log.Debug("OnBtn_EnterRoom");
+        }
+        private void OnBtn_Daikai()
+        {
+            Log.Debug("OnBtn_Daikai");
         }
     }
 }

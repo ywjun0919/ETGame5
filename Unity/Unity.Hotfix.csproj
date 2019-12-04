@@ -93,6 +93,7 @@
     <Compile Include="Assets\Hotfix\Game\Modules\Login\LoadingUI.cs" />
     <Compile Include="Assets\Hotfix\Game\Modules\Login\LoginHelper.cs" />
     <Compile Include="Assets\Hotfix\Game\Modules\Main\DlgMain.cs" />
+    <Compile Include="Assets\Hotfix\Game\Modules\Main\DlgMainFields.cs" />
     <Compile Include="Assets\Hotfix\Game\Modules\Main\MainEvent.cs" />
     <Compile Include="Assets\Hotfix\Init.cs" />
     <Compile Include="Assets\Hotfix\Module\Actor\IActorMessage.cs" />
@@ -115,6 +116,7 @@
     <Compile Include="Assets\Hotfix\Module\SUIFW\BaseUIForms.cs" />
     <Compile Include="Assets\Hotfix\Module\SUIFW\Common\SysDefine.cs" />
     <Compile Include="Assets\Hotfix\Module\SUIFW\Common\UI.cs" />
+    <Compile Include="Assets\Hotfix\Module\SUIFW\EventHelper.cs" />
     <Compile Include="Assets\Hotfix\Module\SUIFW\UIManagerComponent.cs" />
     <Compile Include="Assets\Hotfix\Module\SUIFW\UIType.cs" />
     <Compile Include="Assets\Hotfix\Module\UI\IUIFactory.cs" />

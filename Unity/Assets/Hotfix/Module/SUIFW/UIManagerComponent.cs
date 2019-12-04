@@ -26,7 +26,7 @@ namespace ETHotfix
             self.Awake();
         }
     }
-    public class UIManagerComponent : Entity
+    public class UIManagerComponent :Component 
     {
 
         #region        字段 

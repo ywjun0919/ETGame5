@@ -75,8 +75,9 @@ namespace ETHotfix
                 Log.Error(this.GetType() + "/Awake() 获取不到Faigui对象！确认项目配置正确后，请检查包名：" + this.pakName + "，组件名:" + this.cmpName);
                 return;
             }
-
+            ExportFields();
             InitUI();
+            RegistUIEvents();
 
             //弹出窗体
             if (_CurrentUIType.UIForms_Type == UIFormsType.Window)
@@ -117,6 +118,17 @@ namespace ETHotfix
         {
 
         }
+
+        public virtual void ExportFields()
+        {
+
+        }
+
+        public virtual void RegistUIEvents()
+        {
+
+        }
+
 
         /// <summary>
         /// 重写窗口关闭时的逻辑。_窗口 弹出窗体。
@@ -170,7 +182,6 @@ namespace ETHotfix
                 UIManagerComponent.Instance.CloseUIForms(this.GetType());
             }
         }
-
 
         #endregion
 
