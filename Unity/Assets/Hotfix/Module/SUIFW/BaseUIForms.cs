@@ -279,6 +279,10 @@ namespace ETHotfix
             return this.GObject.asCom.GetChild(name);
         }
 
+        public Transition GetTransition(string name)
+        {
+            return this.GObject.asCom.GetTransition(name);
+        }
 
     }//classend
 

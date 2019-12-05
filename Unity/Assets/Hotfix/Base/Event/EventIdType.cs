@@ -6,5 +6,9 @@
 		public const string LoginFinish = "LoginFinish";
 		public const string EnterMapFinish = "EnterMapFinish";
 
+
+
+        public const string RoomOpen = "RoomOpen";
+
 	}
 }

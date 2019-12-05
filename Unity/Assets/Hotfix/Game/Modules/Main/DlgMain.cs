@@ -24,6 +24,7 @@ namespace ETHotfix
         private void OnBtn_CreateRoom()
         {
             Log.Debug("OnBtn_CreateRoom");
+            Game.EventSystem.Run(EventIdType.RoomOpen);
         }
         private void OnBtn_EnterRoom()
         {
