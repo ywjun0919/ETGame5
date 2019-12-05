@@ -9,6 +9,7 @@
 
 
         public const string RoomOpen = "RoomOpen";
+        public const string MailOpen = "MailOpen";
 
 	}
 }

@@ -167,6 +167,13 @@ namespace ILRuntime.Runtime.Enviorment
                 });
 
             });
+            dMgr.RegisterDelegateConvertor<FairyGUI.ListItemRenderer>((act) =>
+            {
+                return new FairyGUI.ListItemRenderer((index,obj) =>
+                {
+                });
+
+            });
 
 
             #endregion

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="200,300" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <loader id="n3_sbl4" name="icon" xy="2,24" size="197,275"/>
+    <text id="n4_sbl4" name="title" xy="5,4" size="115,16" fontSize="12" autoSize="none" text=""/>
+    <text id="n5_sbl4" name="name" xy="130,3" size="63,16" fontSize="12" autoSize="none" text=""/>
+  </displayList>
+  <Button/>
+</component>

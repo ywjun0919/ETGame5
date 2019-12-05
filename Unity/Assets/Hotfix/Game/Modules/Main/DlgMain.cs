@@ -29,6 +29,7 @@ namespace ETHotfix
         private void OnBtn_EnterRoom()
         {
             Log.Debug("OnBtn_EnterRoom");
+            Game.EventSystem.Run(EventIdType.MailOpen);
         }
         private void OnBtn_Daikai()
         {

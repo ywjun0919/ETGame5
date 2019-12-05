@@ -62,7 +62,7 @@ namespace ETHotfix
             //Groot的参数初始化
 
 
-            GRoot.inst.SetContentScaleFactor(1136, 640, UIContentScaler.ScreenMatchMode.MatchWidthOrHeight);
+            GRoot.inst.SetContentScaleFactor(1280,720 , UIContentScaler.ScreenMatchMode.MatchWidthOrHeight);
             UIConfig.buttonSound = (NAudioClip)UIPackage.GetItemAssetByURL("ui://ASource/buttonclick");
             UIConfig.modalLayerColor = new Color(186f, 85f, 211f, 0.4f);
 
