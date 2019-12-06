@@ -12,6 +12,7 @@ public static class ILRuntimeCLRBinding
     static void GenerateCLRBinding()
     {
         List<Type> types = new List<Type>();
+        types.Add(typeof(FairyGUI.GObject));
         types.Add(typeof(int));
         types.Add(typeof(float));
         types.Add(typeof(long));

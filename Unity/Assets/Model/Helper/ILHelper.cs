@@ -15,10 +15,11 @@ namespace ETModel
 	{
 		public static void InitILRuntime(ILRuntime.Runtime.Enviorment.AppDomain appdomain)
 		{
-			// 注册重定向函数
+            // 注册重定向函数
 
-			// 注册委托
-			appdomain.DelegateManager.RegisterMethodDelegate<List<object>>();
+            // 注册委托
+            appdomain.DelegateManager.RegisterMethodDelegate<int,FairyGUI.GObject>();
+            appdomain.DelegateManager.RegisterMethodDelegate<List<object>>();
 			appdomain.DelegateManager.RegisterMethodDelegate<AChannel, System.Net.Sockets.SocketError>();
 			appdomain.DelegateManager.RegisterMethodDelegate<byte[], int, int>();
 			appdomain.DelegateManager.RegisterMethodDelegate<IResponse>();
