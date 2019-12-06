@@ -171,6 +171,7 @@ namespace ILRuntime.Runtime.Enviorment
             {
                 return new FairyGUI.ListItemRenderer((index,obj) =>
                 {
+                    ((Action<int,FairyGUI.GObject>)act)(index,obj);
                 });
 
             });
