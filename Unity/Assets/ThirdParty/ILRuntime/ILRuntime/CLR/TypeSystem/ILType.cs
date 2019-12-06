@@ -488,7 +488,15 @@ namespace ILRuntime.CLR.TypeSystem
 
             return res;
         }
-        void InitializeInterfaces()
+
+        void HandlerExpTip(string tip)
+        {
+            //UnityEngine.Debug.LogError(tip);
+            throw new TypeLoadException(tip);
+        }
+
+
+    void InitializeInterfaces()
         {
             interfaceInitialized = true;
             if (definition != null && definition.HasInterfaces)
@@ -507,7 +515,8 @@ namespace ILRuntime.CLR.TypeSystem
                             firstCLRInterface = adaptor;
                         }
                         else
-                            throw new TypeLoadException("Cannot find Adaptor for:" + interfaces[i].TypeForCLR.ToString());
+                            HandlerExpTip("Cannot find Adaptor for:" + interfaces[i].TypeForCLR.ToString());
+                        //    throw new TypeLoadException("Cannot find Adaptor for:" + interfaces[i].TypeForCLR.ToString());
                     }
                 }
             }
@@ -570,7 +579,8 @@ namespace ILRuntime.CLR.TypeSystem
                     }
                     if (baseType == null)
                     {
-                        throw new TypeLoadException("Cannot find Adaptor for:" + definition.BaseType.FullName);
+                        HandlerExpTip("Cannot find Adaptor for:" + definition.BaseType.FullName) ;
+                        //throw new TypeLoadException("Cannot find Adaptor for:" + definition.BaseType.FullName);
                     }
                 }
                 else
@@ -595,7 +605,11 @@ namespace ILRuntime.CLR.TypeSystem
                                 baseType = adaptor;
                             }
                             else
-                                throw new TypeLoadException("Cannot find Adaptor for:" + baseType.TypeForCLR.ToString());
+                            {
+                                HandlerExpTip("Cannot find Adaptor for:" + baseType.TypeForCLR.ToString());
+                            }
+                            //else
+                            //    throw new TypeLoadException("Cannot find Adaptor for:" + baseType.TypeForCLR.ToString());
                             //继承了其他系统类型
                             //env.logger.Log_Error("ScriptType:" + Name + " Based On a SystemType:" + BaseType.Name);
                             //HasSysBase = true;
