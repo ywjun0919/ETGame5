@@ -5,7 +5,7 @@ using FairyGUI;
 
 public class BuildAssetBundles
 {
-    [MenuItem("Window/Build FairyGUI Example Bundles")]
+    [MenuItem("Window/Example/Build FairyGUI Example Bundles")]
 
 
     public static void Build()
@@ -34,7 +34,7 @@ public class BuildAssetBundles
         BuildPipeline.BuildAssetBundles(Application.streamingAssetsPath, BuildAssetBundleOptions.None, BuildTarget.StandaloneWindows);
         CleanBundleNames();
     }
-    [MenuItem("Window/CleanBundleNames")]
+    [MenuItem("Window/Example/CleanBundleNames")]
     public static void CleanBundleNames()
     {
         string[] abNames = AssetDatabase.GetAllAssetBundleNames();
@@ -47,6 +47,16 @@ public class BuildAssetBundles
             }
         }
     }
+    [MenuItem("Window/Example/Test")]
+    public static void Print()
+    {
+        string[] names = AssetDatabase.GetAllAssetBundleNames();
+        foreach(var s in names)
+        {
+            Debug.Log(s);
+        }
+    }
+
 
 
     public static void Builde()

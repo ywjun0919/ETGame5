@@ -25,8 +25,14 @@ namespace ETModel
 
         public static void AddPackage(string packageName)
         {
+#if UNITY_EDITOR
+            string path = "Assets/Bundles/UI/" + packageName;
+            UIPackage.AddPackage(path);
+#else
             string root = Application.streamingAssetsPath;
-            LoadAssetBundle(root + "/ui/" + packageName);
+            string path = root + "/ui/" + packageName.ToLower();
+            LoadAssetBundle(path);
+#endif
         }
     }
 }
