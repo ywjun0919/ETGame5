@@ -75,19 +75,36 @@ namespace ETEditor
 			}
 		}
 
-		private void SetPackingTagAndAssetBundle()
+
+        public static void SetPackingTagAndAssetBundle()
 		{
 			ClearPackingTagAndAssetBundle();
 
 			SetIndependentBundleAndAtlas("Assets/Bundles/Independent");
 
-			SetBundleAndAtlasWithoutShare("Assets/Bundles/UI");
+			//SetBundleAndAtlasWithoutShare("Assets/Bundles/UI");
+            SetFairyGuiTag("Assets/Bundles/UI");
 
 			SetRootBundleOnly("Assets/Bundles/Unit");
+
 
 			AssetDatabase.SaveAssets();
 			AssetDatabase.Refresh(ImportAssetOptions.ForceSynchronousImport | ImportAssetOptions.ForceUpdate);
 		}
+
+        private static void SetFairyGuiTag(string folder)
+        {
+            string[] filePaths = Directory.GetFiles(folder);
+            for (int i = 0; i < filePaths.Length; ++i)
+            {
+                string p = filePaths[i];
+                if (Path.GetExtension(p).EndsWith(".meta"))
+                {
+                    continue;
+                }
+                AssetImporter.GetAtPath(p).assetBundleName = "ui/" + Path.GetFileNameWithoutExtension(p);
+            }
+        }
 
 		private static void SetNoAtlas(string dir)
 		{

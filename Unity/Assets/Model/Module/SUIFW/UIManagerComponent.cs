@@ -52,16 +52,10 @@ namespace ETModel
 	        _DicCurrentShowUIForms = new Dictionary<Type, BaseUIForms>();
 	        _StaCurrentUIForms = new Stack<BaseUIForms>();
 
-	        //加载UI包
-#if UNITY_EDITOR
-	        UIPackage.AddPackage("UI/ASource");
-#else
-//加载AB包
-#endif
-
+            AddPackage("asource");
             //Groot的参数初始化
-	        UIConfig.defaultFont = "Microsoft YaHei";
-            UIPackage.AddPackage("UI/Common");
+            UIConfig.defaultFont = "Microsoft YaHei";
+            AddPackage("common");
             GRoot.inst.SetContentScaleFactor(1280, 720, UIContentScaler.ScreenMatchMode.MatchWidthOrHeight);
 	        UIConfig.buttonSound = (NAudioClip)UIPackage.GetItemAssetByURL("ui://ASource/buttonclick");
             UIConfig.modalLayerColor = new Color(186f, 85f, 211f, 0.4f);
@@ -110,6 +104,11 @@ namespace ETModel
 
             return baseUIForms;
 
+        }
+
+        public void AddPackage(string packageName)
+        {
+            ETModel.FairyGuiHelper.AddPackage(packageName);
         }
 
         /// <summary>

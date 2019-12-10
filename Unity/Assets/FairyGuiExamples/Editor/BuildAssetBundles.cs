@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using UnityEditor;
 using System.IO;
+using FairyGUI;
 
 public class BuildAssetBundles
 {
@@ -26,22 +27,38 @@ public class BuildAssetBundles
             {
                 continue;
             }
-            AssetImporter.GetAtPath(p).assetBundleName = Path.GetFileNameWithoutExtension(p);
+            AssetImporter.GetAtPath(p).assetBundleName ="ui/" + Path.GetFileNameWithoutExtension(p);
         }
+
         
         BuildPipeline.BuildAssetBundles(Application.streamingAssetsPath, BuildAssetBundleOptions.None, BuildTarget.StandaloneWindows);
+        CleanBundleNames();
     }
+    [MenuItem("Window/CleanBundleNames")]
+    public static void CleanBundleNames()
+    {
+        string[] abNames = AssetDatabase.GetAllAssetBundleNames();
+        if (abNames != null)
+        {
+            for (int i = 0; i < abNames.Length; ++i)
+            {
+                Debug.Log("Remove:"+abNames[i]);
+                AssetDatabase.RemoveAssetBundleName(abNames[i], true);
+            }
+        }
+    }
+
 
     public static void Builde()
     {
 #if (UNITY_5 || UNITY_5_3_OR_NEWER)
-        for (int i = 0; i < 10; i++)
-        {
-            AssetImporter.GetAtPath("Assets/FairyGUI/Examples/Resources/Icons/i" + i + ".png").assetBundleName = "fairygui-examples/i" + i + ".ab";
-        }
+        //for (int i = 0; i < 10; i++)
+        //{
+        //    AssetImporter.GetAtPath("Assets/FairyGUI/Examples/Resources/Icons/i" + i + ".png").assetBundleName = "fairygui-examples/i" + i + ".ab";
+        //}
 
-        AssetImporter.GetAtPath("Assets/FairyGUI/Examples/Resources/UI/BundleUsage_fui.bytes").assetBundleName = "fairygui-examples/bundleusage.ab";
-        AssetImporter.GetAtPath("Assets/FairyGUI/Examples/Resources/UI/BundleUsage_atlas0.png").assetBundleName = "fairygui-examples/bundleusage.ab";
+        //AssetImporter.GetAtPath("Assets/FairyGUI/Examples/Resources/UI/BundleUsage_fui.bytes").assetBundleName = "fairygui-examples/bundleusage.ab";
+        //AssetImporter.GetAtPath("Assets/FairyGUI/Examples/Resources/UI/BundleUsage_atlas0.png").assetBundleName = "fairygui-examples/bundleusage.ab";
 
         BuildPipeline.BuildAssetBundles(Application.streamingAssetsPath, BuildAssetBundleOptions.None, BuildTarget.Android);
 #else

@@ -44,16 +44,16 @@ namespace ETEditor
 			{
 				Directory.CreateDirectory(fold);
 			}
-			
-			Log.Info("开始资源打包");
-			BuildPipeline.BuildAssetBundles(fold, buildAssetBundleOptions, buildTarget);
-			
-			GenerateVersionInfo(fold);
-			Log.Info("完成资源打包");
-
+		
 			if (isContainAB)
 			{
-				FileHelper.CleanDirectory("Assets/StreamingAssets/");
+                BuildEditor.SetPackingTagAndAssetBundle();
+                Log.Info("开始资源打包");
+                BuildPipeline.BuildAssetBundles(fold, buildAssetBundleOptions, buildTarget);
+                GenerateVersionInfo(fold);
+                Log.Info("完成资源打包");
+
+                FileHelper.CleanDirectory("Assets/StreamingAssets/");
 				FileHelper.CopyDirectory(fold, "Assets/StreamingAssets/");
 			}
 

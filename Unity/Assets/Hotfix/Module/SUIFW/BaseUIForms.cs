@@ -65,10 +65,7 @@ namespace ETHotfix
                 Log.Error(this.GetType() + "/Awake() 初始化Ui界面失败，pakName或cmpName为空！");
                 return;
             }
-#if UNITY_EDITOR
-            UIPackage.AddPackage("UI/" + pakName);
-#endif
-
+            UIManagerComponent.Instance.AddPackage(pakName);
             this.GObject = UIPackage.CreateObject(pakName, cmpName);
             if (this.GObject == null)
             {
