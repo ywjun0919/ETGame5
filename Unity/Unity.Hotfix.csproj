@@ -108,6 +108,8 @@
     <Compile Include="Assets\Hotfix\Module\Config\ConfigHelper.cs" />
     <Compile Include="Assets\Hotfix\Module\Config\IConfig.cs" />
     <Compile Include="Assets\Hotfix\Module\Message\AMHandler.cs" />
+    <Compile Include="Assets\Hotfix\Module\Message\CommonModelMessage.cs" />
+    <Compile Include="Assets\Hotfix\Module\Message\CommonModelOpcode.cs" />
     <Compile Include="Assets\Hotfix\Module\Message\HotfixMessage.cs" />
     <Compile Include="Assets\Hotfix\Module\Message\HotfixMessageDispatcher.cs" />
     <Compile Include="Assets\Hotfix\Module\Message\HotfixOpcode.cs" />
