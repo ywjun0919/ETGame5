@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="800,600">
   <displayList>
-    <list id="n2_haek" name="RoleList" xy="47,402" size="705,182" layout="flow_hz" overflow="scroll" scroll="horizontal" colGap="-69" defaultItem="ui://ckywsbrahaek1m" align="center">
+    <component id="n8_10eia" name="frame" src="t2i0n" fileName="Top/Window/BgCmp.xml" pkg="jfcixih7" xy="0,0" size="800,600"/>
+    <list id="n2_haek" name="RoleList" xy="110,455" size="697,160" layout="flow_hz" scroll="both" colGap="-72" defaultItem="ui://ckywsbrahaek1m" align="center">
       <item icon="ui://ckywsbrahaekw"/>
       <item icon="ui://ckywsbrahaeku"/>
       <item icon="ui://ckywsbrahaeks"/>
@@ -23,7 +24,7 @@
       <item icon="ui://ckywsbrahaek14"/>
       <item icon="ui://ckywsbrahaek13"/>
     </list>
-    <list id="n3_haek" name="RightList" xy="643,37" size="154,359" lineGap="-34" defaultItem="ui://ckywsbrahaek1n" align="center" vAlign="middle">
+    <list id="n3_haek" name="RightList" xy="767,92" size="91,359" lineGap="-34" defaultItem="ui://ckywsbrahaek1n" align="center" vAlign="middle">
       <item icon="ui://ckywsbrahaek16"/>
       <item icon="ui://ckywsbrahaek16"/>
       <item icon="ui://ckywsbrahaek16"/>
@@ -45,7 +46,7 @@
       <item icon="ui://ckywsbrahaek16"/>
       <item icon="ui://ckywsbrahaek16"/>
     </list>
-    <list id="n4_haek" name="LeftList" xy="6,27" size="154,359" lineGap="-34" defaultItem="ui://ckywsbrahaek1o" align="center" vAlign="middle">
+    <list id="n4_haek" name="LeftList" xy="67,76" size="91,359" lineGap="-34" defaultItem="ui://ckywsbrahaek1o" align="center" vAlign="middle">
       <item/>
       <item icon="ui://ckywsbrahaek16"/>
       <item icon="ui://ckywsbrahaek16"/>

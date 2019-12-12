@@ -60,6 +60,7 @@
     <component id="haek1m" name="CardRoleItem.xml" path="/" exported="true"/>
     <component id="haek1n" name="CardRightItem.xml" path="/" exported="true"/>
     <component id="haek1o" name="CardLeftItem.xml" path="/" exported="true"/>
+    <image id="10eia1p" name="Common_BG4_2x.png" path="/"/>
   </resources>
   <publish name="Poker" genCode="true"/>
 </packageDescription>
