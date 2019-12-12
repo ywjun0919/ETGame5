@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="58,59" extention="Button">
+  <displayList>
+    <image id="n14_jfy2" name="n14" src="jfy24u" fileName="anniu/btn_jian.png" xy="0,0" scale="0.5,0.5"/>
+  </displayList>
+  <Button sound="ui://jra4krmqcdm8yo" downEffect="dark" downEffectValue="0.80"/>
+</component>

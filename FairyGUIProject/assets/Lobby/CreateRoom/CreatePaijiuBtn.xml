@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="265,182" extention="Button">
+  <displayList>
+    <component id="n12_jp8h" name="n12" src="b8ibwk" pkg="jra4krmq" xy="0,0"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="0.80"/>
+</component>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="116,32">
+  <displayList>
+    <image id="n1_ie0i" name="n1" src="ie0iv1" pkg="jra4krmq" xy="0,0" size="148,32"/>
+    <loader id="n0_ie0i" name="n0" xy="4,2" size="46,32" url="ui://jfcixih7g3kp1b" fill="scale">
+      <relation target="n1_ie0i" sidePair="left-left,top-top"/>
+    </loader>
+    <text id="n2_ie0i" name="Score" xy="61,1" size="78,32" fontSize="24" color="#ffffff" vAlign="middle" autoSize="shrink" text="9999">
+      <relation target="n0_ie0i" sidePair="top-top,leftext-right"/>
+    </text>
+  </displayList>
+</component>

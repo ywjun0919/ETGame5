@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="944,631" extention="Label" initName="frame">
+  <displayList>
+    <image id="n0_t2i0" name="n0" src="t2i0vp" fileName="Window/ty_baiotikuang.png" pkg="jra4krmq" xy="10,0"/>
+    <image id="n1_t2i0" name="n1" src="t2i0vr" fileName="Window/ty_dakuangdi.png" pkg="jra4krmq" xy="0,91"/>
+    <image id="n2_t2i0" name="n2" src="t2i0vr" fileName="Window/ty_dakuangdi.png" pkg="jra4krmq" xy="472,91" flip="hz"/>
+    <component id="n3_bsvj" name="closeButton" src="t2i0o" fileName="Top/Window/CloseBtn.xml" xy="853,12">
+      <relation target="" sidePair="left-left,top-top"/>
+      <Button sound="ui://jra4krmqcdm8yp"/>
+    </component>
+  </displayList>
+</component>

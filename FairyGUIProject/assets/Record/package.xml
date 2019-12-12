@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="nl2hlwq4" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="g3kp0" name="cmp_zhanji_window.xml" path="/" exported="true"/>
+    <component id="g3kp1" name="cmp_zhanji_frame.xml" path="/" exported="true"/>
+    <component id="g3kp2" name="cmp_zhanji_title.xml" path="/" exported="true"/>
+    <component id="g3kp4" name="cmp_zhanji_item.xml" path="/" exported="true"/>
+    <image id="g3kp5" name="heidi.png" path="/" scale="9grid" scale9grid="9,9,18,18"/>
+    <image id="g3kp6" name="btn_di.png" path="/"/>
+    <component id="g3kp7" name="cmp_zhanji_item_item.xml" path="/" exported="true"/>
+    <component id="g3kp8" name="btn_chayue.xml" path="/"/>
+    <image id="w0j3a" name="LoseScore_atlas.png" path="/font/" exported="true"/>
+    <font id="w0j39" name="LoseScore.fnt" path="/font/" exported="true" texture="w0j3a"/>
+    <image id="w0j3b" name="WinScore_0.png" path="/font/" exported="true"/>
+    <image id="w0j3d" name="WinScore_atlas.png" path="/font/" exported="true"/>
+    <font id="w0j3c" name="WinScore.fnt" path="/font/" exported="true" texture="w0j3d"/>
+  </resources>
+  <publish name="Record"/>
+</packageDescription>

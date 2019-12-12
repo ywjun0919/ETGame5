@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="75,75">
+  <displayList>
+    <image id="n92_dagi" name="n92" src="lfw032" xy="17,17">
+      <relation target="" sidePair="left-left,top-top"/>
+    </image>
+    <image id="n91_lfw0" name="n91" src="lfw033" xy="0,0" pivot="0.5,0.5" size="75,75">
+      <relation target="n92_dagi" sidePair="left-left,top-top"/>
+    </image>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Rotation" target="n91_lfw0" tween="true" startValue="0" endValue="360" duration="30"/>
+  </transition>
+</component>

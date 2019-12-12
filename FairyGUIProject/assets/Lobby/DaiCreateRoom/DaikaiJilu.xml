@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1070,200">
+  <displayList>
+    <image id="n16_ohhm" name="n16" src="ohhm19" fileName="DaiCreateRoom/kuang (2).png" xy="0,0" size="1070,202"/>
+    <text id="n17_ohhm" name="roomNum" xy="36,50" size="93,32" fontSize="24" color="#cc6600" autoSize="none" text="966556"/>
+    <text id="n18_ohhm" name="status" xy="36,93" size="93,32" font="华文新魏" fontSize="24" color="#ff0000" autoSize="none" bold="true" text="未开始"/>
+    <text id="n19_ohhm" name="settings" xy="36,137" size="829,32" fontSize="24" color="#cc6600" autoSize="none" text="推牌九规则：大 轮庄 每次选分 三道杠 有鬼子 有炸弹 有天九王 有地九娘娘"/>
+    <text id="n20_ohhm" name="creattime" xy="210,50" size="114,83" font="华文新魏" fontSize="18" color="#cc3300" autoSize="none" bold="true" text="2018-05-05&#xA; 22:05:05"/>
+    <text id="n21_ohhm" name="playernames" xy="545,51" size="263,84" font="华文新魏" fontSize="14" color="#cc3300" autoSize="none" bold="true" text="张三李四和王五&#xA;张三李四和王五&#xA;张三李四和王五张三李四和王五&#xA;张三李四和王五&#xA;&#xA;&#xA;"/>
+    <component id="n25_ohhm" name="yaoqing_btn" src="ohhm1e" fileName="DaiCreateRoom/Fenxiang.xml" xy="963,52">
+      <Button sound="ui://jra4krmqcdm8yq"/>
+    </component>
+    <component id="n26_ohhm" name="jiesan_btn" src="ohhm1f" fileName="DaiCreateRoom/Jisan.xml" xy="963,122">
+      <Button sound="ui://jra4krmqcdm8yq"/>
+    </component>
+  </displayList>
+</component>

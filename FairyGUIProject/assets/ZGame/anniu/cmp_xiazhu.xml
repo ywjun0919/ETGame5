@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="371,28" adaptationTest="FitSize">
+  <displayList>
+    <image id="n11_jfy2" name="n11" src="jfy24s" xy="0,0" size="100,29"/>
+    <text id="n12_jfy2" name="text_score" xy="0,0" size="100,28" font="ui://dh0i1y4vdagi4m" fontSize="18" color="#ffffff" align="center" vAlign="bottom" autoSize="none" text="10"/>
+    <component id="n13_jfy2" name="btn_jia" src="jfy24v" xy="142,-1" size="29,30"/>
+    <component id="n14_jfy2" name="btn_jian" src="jfy24w" xy="199,-1" size="29,26"/>
+  </displayList>
+</component>

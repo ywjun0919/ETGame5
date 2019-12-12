@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="66,60" extention="Button">
+  <displayList>
+    <image id="n8_g3kp" name="n8" src="g3kp2f" pkg="l8xvrp74" xy="0,0" size="65,60"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="0.80"/>
+</component>

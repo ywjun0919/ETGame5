@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="mrx4dv6t" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="fafy0" name="cmp_loading.xml" path="/" exported="true"/>
+    <movieclip id="fafy1" name="Shaizi.jta" path="/"/>
+    <image id="fafy2" name="bg1.jpg" path="/"/>
+  </resources>
+  <publish name="Loading"/>
+</packageDescription>

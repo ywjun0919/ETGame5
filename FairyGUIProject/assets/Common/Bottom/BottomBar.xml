@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1088,83">
+  <displayList>
+    <component id="n0_ie0i" name="n0" src="ie0ij" xy="1009,3" size="50,0"/>
+    <component id="n4_g3kp" name="btn_zhanji" src="g3kp1o" xy="882,0"/>
+    <component id="n5_g3kp" name="btn_setting" src="g3kp1p" xy="999,0"/>
+    <component id="n6_g3kp" name="btn_mail" src="g3kp1n" xy="771,0"/>
+  </displayList>
+  <relation target="" sidePair="rightext-right,bottomext-bottom"/>
+</component>

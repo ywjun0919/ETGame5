@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640" initName="frame">
+  <displayList>
+    <image id="n1_jqmq" name="n1" src="jqmqt" fileName="Top/Window/small_kuang.png" pkg="jfcixih7" xy="0,0" size="1136,640"/>
+    <component id="n2_a57j" name="closeButton" src="jqmq12" fileName="DaiCreateRoom/ReturnBtn.xml" xy="1021,27">
+      <relation target="" sidePair="left-left,top-top"/>
+      <Button sound="ui://jra4krmqcdm8yp" volume="100"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,641" adaptationTest="FitSize">
+  <displayList>
+    <component id="n0_dagi" name="player_layer" src="dagi3g" fileName="Player/PlayerLayer.xml" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n21_dagi" name="dizhu_p0" src="dagi3r" fileName="Player/cmp_dizhuGroup.xml" xy="433,476">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </component>
+    <component id="n22_dagi" name="dizhu_p1" src="dagi3r" fileName="Player/cmp_dizhuGroup.xml" xy="1000,348">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+    <component id="n20_dagi" name="dizhu_p2" src="dagi3r" fileName="Player/cmp_dizhuGroup.xml" xy="724,113">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+    <component id="n1_dagi" name="dizhu_p3" src="dagi3r" fileName="Player/cmp_dizhuGroup.xml" xy="44,344">
+      <relation target="" sidePair="left-left,top-top"/>
+    </component>
+    <component id="n23_dagi" name="res_p0" src="dagi3s" fileName="Player/cmp_res.xml" xy="220,402">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </component>
+    <component id="n25_dagi" name="res_p1" src="dagi3s" fileName="Player/cmp_res.xml" xy="928,188">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+    <component id="n24_dagi" name="res_p2" src="dagi3s" fileName="Player/cmp_res.xml" xy="655,18">
+      <relation target="" sidePair="top-top,right-right"/>
+    </component>
+    <component id="n13_dagi" name="res_p3" src="dagi3s" fileName="Player/cmp_res.xml" xy="36,120">
+      <relation target="" sidePair="left-left,top-top"/>
+    </component>
+  </displayList>
+</component>

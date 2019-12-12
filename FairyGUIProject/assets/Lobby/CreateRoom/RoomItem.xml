@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="200,200" overflow="hidden" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <loader id="n3_90pu" name="icon" xy="0,53" size="200,147" fill="scaleFree"/>
+    <text id="n4_90pu" name="title" xy="51,7" size="105,31" fontSize="24" color="#ffffff" autoSize="none" text=""/>
+  </displayList>
+  <Button/>
+</component>

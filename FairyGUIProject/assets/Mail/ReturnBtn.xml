@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="204,80" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n1" name="n1" src="t2i0w1" fileName="Mail/bb_zsan.png" pkg="jra4krmq" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n2" name="title" xy="0,0" size="204,80" fontSize="40" color="#ffffff" align="center" vAlign="middle" leading="5" letterSpacing="5" autoSize="none" bold="true" strokeColor="#999999" strokeSize="0" singleLine="true" text="返回">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+  </displayList>
+  <Button sound="ui://jra4krmqcdm8yq" downEffect="scale" downEffectValue="0.80"/>
+</component>

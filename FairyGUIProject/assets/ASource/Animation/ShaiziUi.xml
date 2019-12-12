@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640">
+  <displayList>
+    <movieclip id="n0_qxos" name="n0" src="qxosyf" fileName="Animation/ShaiziAnimation2.jta" xy="456,160"/>
+    <loader id="n3_qxos" name="dice_1" xy="460,179" size="79,79" url="ui://dh0i1y4vo0f45k"/>
+    <loader id="n4_qxos" name="dice_2" xy="536,225" size="79,79" url="ui://dh0i1y4vo0f45l"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n0_qxos" value="1"/>
+    <item time="0" type="Alpha" target="n4_qxos" value="0"/>
+    <item time="0" type="Alpha" target="n3_qxos" value="0"/>
+    <item time="49" type="Alpha" target="n0_qxos" value="0"/>
+    <item time="49" type="Alpha" target="n4_qxos" value="1"/>
+    <item time="49" type="Alpha" target="n3_qxos" value="1"/>
+  </transition>
+</component>

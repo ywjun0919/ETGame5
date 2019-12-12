@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="160,273" adaptationTest="FitSize">
+  <displayList>
+    <image id="n36_dagi" name="n36" src="dagi4d" xy="0,0" size="160,273">
+      <relation target="" sidePair="left-left,top-top"/>
+    </image>
+    <component id="n43_dagi" name="cmp_playerInfo" src="dagi4e" xy="7,9" size="110,115">
+      <relation target="" sidePair="left-left,top-top"/>
+    </component>
+    <text id="n45_dagi" name="text0" xy="7,137" size="145,18" fontSize="12" color="#ffffff" autoSize="none" text="最大牌型:鬼子炸">
+      <relation target="" sidePair="left-left"/>
+    </text>
+    <text id="n46_dagi" name="text1" xy="7,157" size="145,18" fontSize="12" color="#ffffff" autoSize="none" text="最大牌型:鬼子炸">
+      <relation target="" sidePair="left-left"/>
+    </text>
+    <text id="n47_dagi" name="text2" xy="7,177" size="145,18" fontSize="12" color="#ffffff" autoSize="none" text="最大牌型:鬼子炸">
+      <relation target="" sidePair="left-left"/>
+    </text>
+    <image id="n48_dagi" name="n48" src="dagi4f" xy="7,200" size="145,12"/>
+    <text id="n50_dagi" name="n50" xy="15,213" size="18,50" font="华文新魏" fontSize="12" color="#ffffff" autoSize="none" text="总成绩"/>
+    <loader id="n51_dagi" name="res_icon" xy="107,217" size="43,40" url="ui://dh0i1y4vlfw02d" fill="scaleFree">
+      <relation target="" sidePair=""/>
+    </loader>
+    <text id="n52_dagi" name="text_score" xy="41,217" size="63,45" font="ui://dh0i1y4vdagi4m" fontSize="18" color="#ffffff" align="center" autoSize="none" text="+9999&#xA;">
+      <relation target="n50_dagi" sidePair="left-left,top-top"/>
+    </text>
+    <loader id="n54_dagi" name="image_dayingjia_flag" xy="100,0" size="50,107" url="ui://dh0i1y4vdagi4o">
+      <relation target="n36_dagi" sidePair="top-top,right-right"/>
+    </loader>
+  </displayList>
+</component>

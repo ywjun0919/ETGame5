@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="654,431" extention="Label" initName="frame">
+  <displayList>
+    <image id="n13_g3kp" name="icon" src="t2i0vu" fileName="Window/dtgrxx_mengb.png" pkg="jra4krmq" xy="0,0" size="654,431"/>
+    <text id="n22_g3kp" name="title" xy="236,30" size="365,38" font="华文楷体" fontSize="30" color="#ff0000" vAlign="middle" letterSpacing="14" autoSize="shrink" bold="true" text="输入六位房间号码">
+      <relation target="" sidePair="left-right,top-top"/>
+      <relation target="" sidePair="leftext-left"/>
+    </text>
+    <component id="n16_g3kp" name="closeButton" src="g3kp2a" fileName="EnterRoom/btn_enterroom_exit.xml" xy="606,1">
+      <Button sound="ui://jra4krmqcdm8yp"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="l8xvrp74">
+  <resources>
+    <component id="t2i01" name="Main.xml" path="/"/>
+    <component id="t2i02" name="LobbyBg.xml" path="/" exported="true"/>
+    <component id="t2i06" name="CreateRoomButton.xml" path="/"/>
+    <component id="t2i07" name="EnterRoomButton.xml" path="/"/>
+    <component id="t2i08" name="HelpBtn.xml" path="/"/>
+    <component id="t2i09" name="CreateRoomWinFrame.xml" path="/CreateRoom/" exported="true"/>
+    <component id="jp8hb" name="CreatePaijiuBtn.xml" path="/CreateRoom/" exported="true"/>
+    <component id="vj4zc" name="RoomSettings.xml" path="/paijiu/"/>
+    <component id="vj4zd" name="PaiXing_dapaijiu_Btn.xml" path="/paijiu/"/>
+    <component id="vj4ze" name="PaiXing_xiaopaijiu_Btn.xml" path="/paijiu/"/>
+    <component id="vj4zg" name="DapaijiuSetting.xml" path="/paijiu/"/>
+    <component id="cbztk" name="RadioBtn.xml" path="/paijiu/"/>
+    <component id="cbztm" name="SelectBtn.xml" path="/paijiu/"/>
+    <component id="cbztq" name="ComboBox_Fenshu_item.xml" path="/paijiu/"/>
+    <component id="cbztr" name="ComboBox_Fenshu_popup.xml" path="/paijiu/"/>
+    <component id="cbzts" name="ComboBox_Fenshu.xml" path="/paijiu/" exported="true"/>
+    <component id="rg77t" name="XiaopaijiuSetting.xml" path="/paijiu/"/>
+    <component id="rg77u" name="YellowBtn.xml" path="/paijiu/"/>
+    <component id="rg77v" name="BlueBtn.xml" path="/paijiu/"/>
+    <component id="rg77w" name="GreenBtn.xml" path="/paijiu/" exported="true"/>
+    <component id="jqmqx" name="RoomSettingWin.xml" path="/paijiu/" exported="true"/>
+    <component id="jqmqy" name="DaiKaiMain.xml" path="/DaiCreateRoom/" exported="true"/>
+    <component id="jqmqz" name="frame.xml" path="/DaiCreateRoom/"/>
+    <image id="jqmq11" name="btn_tuichu.png" path="/DaiCreateRoom/"/>
+    <component id="jqmq12" name="ReturnBtn.xml" path="/DaiCreateRoom/"/>
+    <image id="jqmq13" name="btn_green.png" path="/DaiCreateRoom/"/>
+    <image id="jqmq14" name="btn_hua.png" path="/DaiCreateRoom/"/>
+    <image id="jqmq15" name="n6.png" path="/DaiCreateRoom/"/>
+    <image id="jqmq16" name="n9.png" path="/DaiCreateRoom/"/>
+    <component id="jqmq17" name="Select_RecorderType.xml" path="/DaiCreateRoom/"/>
+    <image id="ohhm19" name="kuang (2).png" path="/DaiCreateRoom/" scale="9grid" scale9grid="157,77,314,154"/>
+    <component id="ohhm1a" name="DaikaiJilu.xml" path="/DaiCreateRoom/" exported="true"/>
+    <image id="ohhm1c" name="btn_orange.png" path="/DaiCreateRoom/"/>
+    <image id="ohhm1d" name="btn_blue.png" path="/DaiCreateRoom/"/>
+    <component id="ohhm1e" name="Fenxiang.xml" path="/DaiCreateRoom/"/>
+    <component id="ohhm1f" name="Jisan.xml" path="/DaiCreateRoom/"/>
+    <image id="g01i1g" name="btn_close.png" path="/DaiCreateRoom/Jiesan/"/>
+    <image id="g01i1h" name="daili_title.png" path="/DaiCreateRoom/Jiesan/"/>
+    <image id="g01i1i" name="di.png" path="/DaiCreateRoom/Jiesan/"/>
+    <image id="g01i1j" name="fram.png" path="/DaiCreateRoom/Jiesan/"/>
+    <image id="g01i1k" name="jies_wenzi.png" path="/DaiCreateRoom/Jiesan/"/>
+    <image id="g01i1l" name="touming.png" path="/DaiCreateRoom/Jiesan/"/>
+    <image id="g01i1m" name="background.png" path="/DaiCreateRoom/Jiesan/"/>
+    <image id="g01i1n" name="btn.png" path="/DaiCreateRoom/Jiesan/"/>
+    <component id="g01i1o" name="JiesanPop_Main.xml" path="/DaiCreateRoom/Jiesan/" exported="true"/>
+    <image id="g01i1p" name="btn_hong.png" path="/DaiCreateRoom/Jiesan/"/>
+    <image id="g01i1q" name="btn_lv.png" path="/DaiCreateRoom/Jiesan/"/>
+    <component id="g01i1r" name="btn_close_cmp.xml" path="/DaiCreateRoom/Jiesan/"/>
+    <component id="g01i1s" name="btn_hong_cmp.xml" path="/DaiCreateRoom/Jiesan/"/>
+    <component id="g01i1t" name="btn_lv_cmp.xml" path="/DaiCreateRoom/Jiesan/"/>
+    <image id="g3kp1v" name="bb_zsan.png" path="/"/>
+    <component id="g3kp1w" name="btn_lobby_daikaifangjian.xml" path="/"/>
+    <image id="g3kp1x" name="ty_ditumb.png" path="/EnterRoom/"/>
+    <image id="g3kp20" name="scgb.png" path="/EnterRoom/"/>
+    <image id="g3kp21" name="dt_cmdikuang.png" path="/EnterRoom/"/>
+    <image id="g3kp22" name="dt_shanggongnengdi.png" path="/EnterRoom/"/>
+    <component id="g3kp23" name="cmp_enterroom_num.xml" path="/EnterRoom/" exported="true"/>
+    <image id="g3kp24" name="gonggao.png" path="/"/>
+    <image id="g3kp26" name="font_atlas.png" path="/EnterRoom/" scale=""/>
+    <font id="g3kp25" name="font.fnt" path="/EnterRoom/" texture="g3kp26"/>
+    <image id="g3kp27" name="ejtk_di.png" path="/EnterRoom/" scale="9grid" scale9grid="23,29,46,58"/>
+    <component id="g3kp28" name="btn_num.xml" path="/EnterRoom/"/>
+    <component id="g3kp29" name="cmp_enterroom_bg.xml" path="/EnterRoom/"/>
+    <component id="g3kp2a" name="btn_enterroom_exit.xml" path="/EnterRoom/"/>
+    <image id="g3kp2b" name="btn_qingchu.png" path="/EnterRoom/" scale="9grid" scale9grid="55,20,110,45"/>
+    <image id="g3kp2c" name="btn_hong.png" path="/EnterRoom/"/>
+    <component id="g3kp2d" name="btn_huitui.xml" path="/EnterRoom/"/>
+    <component id="g3kp2e" name="btn_qingkong.xml" path="/EnterRoom/"/>
+    <image id="g3kp2f" name="btn_fengx.png" path="/" exported="true"/>
+    <image id="g3kp2g" name="dt_didi.png" path="/"/>
+    <image id="g3kp2h" name="dt_fengexian.png" path="/"/>
+    <component id="g3kp2i" name="cmp_fenxiang.xml" path="/fenxiang/" exported="true"/>
+    <component id="g3kp2j" name="btn_pengyouquan.xml" path="/fenxiang/"/>
+    <component id="g3kp2k" name="btn_pengyouquan_2.xml" path="/fenxiang/"/>
+    <component id="g3kp2l" name="btn_shoucang.xml" path="/fenxiang/"/>
+    <component id="g3kp2m" name="btn_weixin_liaotian.xml" path="/fenxiang/"/>
+    <image id="ni6v2p" name="winScore_atlas.png" path="/EnterRoom/"/>
+    <font id="ni6v2o" name="winScore.fnt" path="/EnterRoom/" exported="true" texture="ni6v2p"/>
+    <component id="90pu2u" name="RoomItem.xml" path="/CreateRoom/"/>
+    <image id="90pu2w" name="zjm_zhuozi.png" path="/" exported="true"/>
+  </resources>
+  <publish name="Lobby" genCode="true"/>
+</packageDescription>

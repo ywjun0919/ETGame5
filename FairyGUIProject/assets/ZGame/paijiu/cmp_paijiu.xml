@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640" designImage="ui://dh0i1y4vlfw02u" adaptationTest="FitSize">
+  <displayList>
+    <component id="n16_dagi" name="pai0" src="dagi3y" fileName="paijiu/cmp_pai.xml" xy="460,206" group="n34_dagi"/>
+    <component id="n0_dagi" name="pai1" src="dagi3y" fileName="paijiu/cmp_pai.xml" xy="487,207" size="27,55" group="n34_dagi"/>
+    <component id="n19_dagi" name="pai2" src="dagi3y" fileName="paijiu/cmp_pai.xml" xy="514,206" size="27,55" group="n34_dagi"/>
+    <component id="n28_dagi" name="pai3" src="dagi3y" fileName="paijiu/cmp_pai.xml" xy="541,206" size="27,55" group="n34_dagi"/>
+    <component id="n3_dagi" name="pai4" src="dagi3y" fileName="paijiu/cmp_pai.xml" xy="568,206" size="27,55" group="n34_dagi"/>
+    <component id="n25_dagi" name="pai5" src="dagi3y" fileName="paijiu/cmp_pai.xml" xy="595,206" size="27,55" group="n34_dagi"/>
+    <component id="n8_dagi" name="pai6" src="dagi3y" fileName="paijiu/cmp_pai.xml" xy="622,206" size="27,55" group="n34_dagi"/>
+    <component id="n15_dagi" name="pai7" src="dagi3y" fileName="paijiu/cmp_pai.xml" xy="649,206" size="27,55" group="n34_dagi"/>
+    <component id="n10_dagi" name="pai8" src="dagi3y" fileName="paijiu/cmp_pai.xml" xy="460,261" size="27,55" group="n34_dagi"/>
+    <component id="n17_dagi" name="pai9" src="dagi3y" fileName="paijiu/cmp_pai.xml" xy="487,261" size="27,55" group="n34_dagi"/>
+    <component id="n9_dagi" name="pai10" src="dagi3y" fileName="paijiu/cmp_pai.xml" xy="514,261" size="27,55" group="n34_dagi"/>
+    <component id="n26_dagi" name="pai11" src="dagi3y" fileName="paijiu/cmp_pai.xml" xy="541,261" size="27,55" group="n34_dagi"/>
+    <component id="n1_dagi" name="pai12" src="dagi3y" fileName="paijiu/cmp_pai.xml" xy="568,261" size="27,55" group="n34_dagi"/>
+    <component id="n27_dagi" name="pai13" src="dagi3y" fileName="paijiu/cmp_pai.xml" xy="595,261" size="27,55" group="n34_dagi"/>
+    <component id="n2_dagi" name="pai14" src="dagi3y" fileName="paijiu/cmp_pai.xml" xy="622,261" size="27,55" group="n34_dagi"/>
+    <component id="n18_dagi" name="pai15" src="dagi3y" fileName="paijiu/cmp_pai.xml" xy="649,261" size="27,55" group="n34_dagi"/>
+    <component id="n20_dagi" name="pai16" src="dagi3y" fileName="paijiu/cmp_pai.xml" xy="460,316" size="27,55" group="n34_dagi"/>
+    <component id="n21_dagi" name="pai17" src="dagi3y" fileName="paijiu/cmp_pai.xml" xy="487,316" size="27,55" group="n34_dagi"/>
+    <component id="n7_dagi" name="pai18" src="dagi3y" fileName="paijiu/cmp_pai.xml" xy="514,316" size="27,55" group="n34_dagi"/>
+    <component id="n24_dagi" name="pai19" src="dagi3y" fileName="paijiu/cmp_pai.xml" xy="540,316" size="27,55" group="n34_dagi"/>
+    <component id="n11_dagi" name="pai20" src="dagi3y" fileName="paijiu/cmp_pai.xml" xy="568,316" size="27,55" group="n34_dagi"/>
+    <component id="n12_dagi" name="pai21" src="dagi3y" fileName="paijiu/cmp_pai.xml" xy="595,316" size="27,55" group="n34_dagi"/>
+    <component id="n4_dagi" name="pai22" src="dagi3y" fileName="paijiu/cmp_pai.xml" xy="622,316" size="27,55" group="n34_dagi"/>
+    <component id="n29_dagi" name="pai23" src="dagi3y" fileName="paijiu/cmp_pai.xml" xy="649,316" size="27,55" group="n34_dagi"/>
+    <component id="n14_dagi" name="pai24" src="dagi3y" fileName="paijiu/cmp_pai.xml" xy="460,371" size="27,55" group="n34_dagi"/>
+    <component id="n30_dagi" name="pai25" src="dagi3y" fileName="paijiu/cmp_pai.xml" xy="487,371" size="27,55" group="n34_dagi"/>
+    <component id="n22_dagi" name="pai26" src="dagi3y" fileName="paijiu/cmp_pai.xml" xy="514,371" size="27,55" group="n34_dagi"/>
+    <component id="n13_dagi" name="pai27" src="dagi3y" fileName="paijiu/cmp_pai.xml" xy="541,371" size="27,55" group="n34_dagi"/>
+    <component id="n5_dagi" name="pai28" src="dagi3y" fileName="paijiu/cmp_pai.xml" xy="568,371" size="27,55" group="n34_dagi"/>
+    <component id="n23_dagi" name="pai29" src="dagi3y" fileName="paijiu/cmp_pai.xml" xy="595,371" size="27,55" group="n34_dagi"/>
+    <component id="n31_dagi" name="pai30" src="dagi3y" fileName="paijiu/cmp_pai.xml" xy="622,371" size="27,55" group="n34_dagi"/>
+    <component id="n6_dagi" name="pai31" src="dagi3y" fileName="paijiu/cmp_pai.xml" xy="649,371" size="27,55" group="n34_dagi"/>
+    <graph id="n52_dagi" name="index_p3" xy="143,226" size="60,129" group="n34_dagi">
+      <relation target="" sidePair="left-left,top-top"/>
+    </graph>
+    <graph id="n56_dagi" name="index_p0" xy="536,466" size="60,129" group="n34_dagi">
+      <relation target="" sidePair="left-left,top-bottom"/>
+    </graph>
+    <graph id="n60_dagi" name="index_p2" xy="401,39" size="60,129" group="n34_dagi">
+      <relation target="" sidePair="right-right,top-top"/>
+    </graph>
+    <graph id="n64_dagi" name="index_p1" xy="741,226" size="60,129" group="n34_dagi">
+      <relation target="" sidePair="right-right,top-top"/>
+    </graph>
+    <richtext id="n65_ohcb" name="pai_tishi_0_top" xy="141,189" size="121,33" group="n34_dagi" visible="false" fontSize="24" color="#ffffff" ubb="true" autoSize="none" singleLine="true" text="[b][light]皇帝[/light][/b]"/>
+    <richtext id="n66_ohcb" name="pai_tishi_0_bottom" xy="222,260" size="121,33" group="n34_dagi" visible="false" fontSize="24" color="#ffffff" autoSize="none" text=""/>
+    <richtext id="n67_ohcb" name="pai_tishi_1_top" xy="73,205" size="121,33" group="n34_dagi" visible="false" fontSize="24" color="#ffffff" ubb="true" autoSize="none" singleLine="true" text="[b][light]皇帝[/light][/b]"/>
+    <richtext id="n68_ohcb" name="pai_tishi_1_bottom" xy="153,275" size="121,33" group="n34_dagi" visible="false" fontSize="24" color="#ffffff" autoSize="none" text=""/>
+    <richtext id="n69_ohcb" name="pai_tishi_2_top" xy="259,335" size="121,33" group="n34_dagi" visible="false" fontSize="24" color="#ffffff" ubb="true" autoSize="none" singleLine="true" text="[b][light]皇帝[/light][/b]"/>
+    <richtext id="n70_ohcb" name="pai_tishi_2_bottom" xy="153,275" size="121,33" group="n34_dagi" visible="false" fontSize="24" color="#ffffff" autoSize="none" text=""/>
+    <richtext id="n71_ohcb" name="pai_tishi_3_top" xy="238,394" size="121,33" group="n34_dagi" visible="false" fontSize="24" color="#ffffff" ubb="true" autoSize="none" singleLine="true" text="[b][light]皇帝[/light][/b]"/>
+    <richtext id="n72_ohcb" name="pai_tishi_3_bottom" xy="362,397" size="121,33" group="n34_dagi" visible="false" fontSize="24" color="#ffffff" autoSize="none" text=""/>
+    <group id="n34_dagi" name="gp_pai" xy="73,39" size="728,556"/>
+  </displayList>
+</component>

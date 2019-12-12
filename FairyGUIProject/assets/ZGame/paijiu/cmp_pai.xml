@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="27,55">
+  <displayList>
+    <loader id="n18_dagi" name="flag" xy="-6,-7" size="40,68" align="center" vAlign="middle" fill="scaleFree" playing="false"/>
+    <loader id="n17_dagi" name="icon" xy="0,0" size="27,55" url="ui://dh0i1y4vo0oy50" fill="scaleFree">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+  </displayList>
+</component>

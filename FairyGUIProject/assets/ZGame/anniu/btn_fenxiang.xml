@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="68,59" extention="Button">
+  <displayList>
+    <image id="n18_dagi" name="n18" src="dagi43" xy="0,0" size="68,59"/>
+  </displayList>
+  <Button downEffect="dark" downEffectValue="0.80"/>
+</component>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640" designImage="ui://dh0i1y4vlfw02u">
+  <displayList>
+    <component id="n0_dagi" name="p2" src="lfw03e" xy="724,21">
+      <relation target="" sidePair="top-top,right-right"/>
+    </component>
+    <component id="n1_dagi" name="p0" src="lfw03e" xy="224,472">
+      <relation target="" sidePair="left-left,top-bottom"/>
+    </component>
+    <component id="n2_dagi" name="p3" src="lfw03f" xy="43,195">
+      <relation target="" sidePair="left-left,top-top"/>
+    </component>
+    <component id="n3_dagi" name="p1" src="lfw03f" xy="1001,195">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+  </displayList>
+  <relation target="" sidePair="rightext-right,height-height"/>
+</component>

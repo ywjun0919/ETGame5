@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="944,631" extention="Label" initName="frame">
+  <displayList>
+    <component id="n4_t2i0" name="frame" src="t2i0n" fileName="Top/Window/BgCmp.xml" xy="0,0"/>
+    <component id="n5_t2i0" name="closeButton" src="t2i0o" fileName="Top/Window/CloseBtn.xml" xy="852,11">
+      <relation target="n4_t2i0" sidePair="left-left,top-top"/>
+      <Button sound="ui://jra4krmqcdm8yp"/>
+    </component>
+    <component id="n7_t2i0" name="n7" src="t2i0q" fileName="Top/Window/title.xml" xy="732,22"/>
+    <graph id="n8_t2i0" name="dragArea" xy="66,26" size="783,63">
+      <relation target="" sidePair="left-left,top-top"/>
+    </graph>
+  </displayList>
+</component>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="769,190">
+  <displayList>
+    <image id="n10_g3kp" name="bg" src="t2i0w0" pkg="jra4krmq" xy="0,0" size="769,190">
+      <relation target="" sidePair="rightext-right,bottomext-bottom"/>
+      <relation target="" sidePair=""/>
+    </image>
+    <loader id="n11_g3kp" name="icon_banner" xy="9,13" size="143,165" url="ui://jra4krmqo1yeui" fill="scaleFree"/>
+    <loader id="n12_g3kp" name="icon_result" xy="157,13" size="50,50" url="ui://dh0i1y4vlfw02n" fill="scaleFree"/>
+    <list id="n14_g3kp" name="dataList" xy="214,13" size="365,168" overflow="scroll" scrollBarFlags="160" scrollBar="hidden" lineGap="5" defaultItem="ui://nl2hlwq4g3kp7" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n19_g3kp" name="btn_chayue" src="g3kp8" xy="621,122"/>
+  </displayList>
+</component>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="265,182">
+  <displayList>
+    <image id="n0_b8ib" name="n0" src="b8ibwf" xy="0,0" group="n12_jp8h"/>
+    <image id="n1_b8ib" name="n1" src="b8ibwb" xy="82,43" group="n12_jp8h"/>
+    <image id="n2_b8ib" name="n2" src="b8ibwc" xy="81,42" group="n12_jp8h"/>
+    <image id="n3_b8ib" name="n3" src="b8ibwd" xy="11,17" group="n12_jp8h"/>
+    <image id="n4_b8ib" name="n4" src="b8ibwe" xy="32,78" group="n12_jp8h"/>
+    <image id="n5_b8ib" name="n5" src="b8ibwg" xy="169,6" pivot="0.5,1" group="n12_jp8h"/>
+    <image id="n6_b8ib" name="n6" src="b8ibwh" xy="30,60" group="n12_jp8h"/>
+    <text id="n11_b8ib" name="n11" xy="83,136" size="111,39" group="n12_jp8h" font="迷你简粗圆" fontSize="30" color="#ffff00" leading="28" autoSize="none" bold="true" text="推牌九"/>
+    <image id="n9_b8ib" name="n9" src="b8ibw9" xy="76,134" group="n12_jp8h"/>
+    <image id="n10_b8ib" name="n10" src="b8ibwa" xy="78,133" group="n12_jp8h"/>
+    <group id="n12_jp8h" name="n12" xy="0,0" size="268,182"/>
+  </displayList>
+  <transition name="t0" autoPlay="true" autoPlayRepeat="-1" autoPlayDelay="2.000">
+    <item time="0" type="Rotation" target="n5_b8ib" tween="true" startValue="22"/>
+    <item time="0" type="Visible" target="n10_b8ib" value="false"/>
+    <item time="0" type="Visible" target="n9_b8ib" value="true"/>
+    <item time="0" type="XY" target="n5_b8ib" tween="true" startValue="182.2,-31.4" endValue="170.2,-15.65" duration="17" ease="Bounce.Out" yoyo="true"/>
+    <item time="17" type="Visible" target="n9_b8ib" value="false"/>
+    <item time="17" type="Visible" target="n10_b8ib" value="true"/>
+  </transition>
+</component>

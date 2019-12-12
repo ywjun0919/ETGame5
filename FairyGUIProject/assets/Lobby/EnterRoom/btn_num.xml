@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="62,60" extention="Button">
+  <displayList>
+    <image id="n14_g3kp" name="n14" src="g3kp1x" fileName="EnterRoom/ty_ditumb.png" xy="0,0" size="62,60"/>
+    <text id="n15_g3kp" name="n15" xy="6,5" size="52,45" font="ui://l8xvrp74g3kp25" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="1"/>
+  </displayList>
+  <Button sound="ui://jra4krmqcdm8yn" downEffect="scale" downEffectValue="0.80"/>
+</component>

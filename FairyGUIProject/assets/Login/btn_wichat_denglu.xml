@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="262,87" extention="Button">
+  <displayList>
+    <image id="n15_tesp" name="n15" src="g3kpb" xy="0,0" pivot="0.5,0.5" size="262,87"/>
+  </displayList>
+  <Button downEffect="dark" downEffectValue="0.80"/>
+</component>

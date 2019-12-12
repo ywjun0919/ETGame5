@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640">
+  <displayList>
+    <image id="n1_kwet" name="n1" src="kwet5s" fileName="PaijiuRoom/base.png" xy="168,37" size="810,570"/>
+    <image id="n0_kwet" name="n0" src="kwet5q" fileName="PaijiuRoom/proto2.png" xy="182,70" size="781,497">
+      <relation target="" sidePair="left-left,top-top"/>
+      <relation target="" sidePair="leftext-right,topext-bottom"/>
+    </image>
+    <component id="n2_kwet" name="closeButton" src="t2i0o" fileName="Top/Window/CloseBtn.xml" pkg="jfcixih7" xy="927,23"/>
+  </displayList>
+</component>

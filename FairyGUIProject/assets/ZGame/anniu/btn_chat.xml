@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="128,61" extention="Button">
+  <displayList>
+    <image id="n17_dagi" name="n17" src="lfw028" xy="0,0" fillMethod="hz" fillAmount="50">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </image>
+  </displayList>
+  <Button downEffect="dark" downEffectValue="0.80"/>
+</component>

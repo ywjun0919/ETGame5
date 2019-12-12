@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="68,59" extention="Button">
+  <displayList>
+    <image id="n16_dagi" name="btn_tuichu" src="lfw025" fileName="zjm_fanhui.png" xy="0,0">
+      <relation target="" sidePair="left-left,top-top"/>
+    </image>
+  </displayList>
+  <Button sound="ui://jra4krmqcdm8yp" downEffect="dark" downEffectValue="0.80"/>
+</component>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="627,315">
+  <displayList>
+    <image id="n0_g01i" name="n0" src="g01i1j" fileName="DaiCreateRoom/Jiesan/fram.png" xy="0,0" size="627,315">
+      <relation target="" sidePair="left-left,top-top"/>
+    </image>
+    <image id="n2_g01i" name="n2" src="g01i1k" fileName="DaiCreateRoom/Jiesan/jies_wenzi.png" xy="225,108">
+      <relation target="n0_g01i" sidePair="left-left,top-top"/>
+    </image>
+    <component id="n5_g01i" name="ok_btn" src="g01i1s" fileName="DaiCreateRoom/Jiesan/btn_hong_cmp.xml" xy="65,202">
+      <relation target="n0_g01i" sidePair="left-left,top-top"/>
+      <Button sound="ui://jra4krmqcdm8yq"/>
+    </component>
+    <component id="n6_g01i" name="cancle_btn" src="g01i1t" fileName="DaiCreateRoom/Jiesan/btn_lv_cmp.xml" xy="355,202">
+      <relation target="n5_g01i" sidePair="left-left,top-top"/>
+      <Button sound="ui://jra4krmqcdm8yq"/>
+    </component>
+    <component id="n7_g01i" name="return_btn" src="g01i1r" fileName="DaiCreateRoom/Jiesan/btn_close_cmp.xml" xy="547,1">
+      <relation target="n0_g01i" sidePair="left-left,top-top"/>
+      <Button sound="ui://jra4krmqcdm8yp"/>
+    </component>
+  </displayList>
+</component>

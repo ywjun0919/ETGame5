@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="94,77">
+  <displayList>
+    <component id="n1_dagi" name="d1" src="dagi3q" xy="0,0"/>
+    <component id="n18_dagi" name="d3" src="dagi3q" xy="0,52"/>
+    <component id="n19_dagi" name="d2" src="dagi3q" xy="0,26"/>
+  </displayList>
+</component>

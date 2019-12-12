@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640" initName="frame">
+  <displayList>
+    <component id="n0_t2i0" name="frame" src="t2i0n" fileName="Top/Window/BgCmp.xml" pkg="jfcixih7" xy="112,0"/>
+    <component id="n4_t2i0" name="title" src="t2i0r" fileName="Top/Window/title_jianfang.xml" pkg="jfcixih7" xy="849,89" size="112,4" group="n11_t2i0"/>
+    <image id="n5_t2i0" name="tipBg" src="t2i0vt" fileName="Mail/yj_pmd.png" pkg="jra4krmq" xy="171,186" size="818,0" group="n11_t2i0"/>
+    <text id="n6_t2i0" name="tip" xy="325,184" size="510,29" group="n11_t2i0" fontSize="22" color="#ffffff" align="center" vAlign="middle" leading="1" autoSize="none" text="请选择要创建房间的类型"/>
+    <image id="n7_t2i0" name="listbg" src="t2i0vu" fileName="Window/dtgrxx_mengb.png" pkg="jra4krmq" xy="132,239" size="905,371" group="n11_t2i0" flip="vt"/>
+    <graph id="n8_t2i0" name="dragArea" xy="180,95" size="784,0" group="n11_t2i0"/>
+    <graph id="n9_t2i0" name="contentArea" xy="133,239" size="902,354" group="n11_t2i0"/>
+    <list id="n10_t2i0" name="dataList" xy="133,249" size="903,344" group="n11_t2i0" aspect="true" layout="flow_hz" overflow="scroll" scrollBarFlags="2" margin="10,10,10,10" clipSoftness="10,10" lineItemCount="4" defaultItem="ui://l8xvrp7490pu2u" autoItemSize="true" align="center" vAlign="middle" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item title="1" icon="ui://dh0i1y4vlfw02u"/>
+      <item title="2" icon="ui://dh0i1y4vlfw02u"/>
+      <item title="3" icon="ui://dh0i1y4vlfw02u"/>
+      <item title="4" icon="ui://dh0i1y4vlfw02u"/>
+      <item title="5" icon="ui://dh0i1y4vlfw02u"/>
+      <item title="6" icon="ui://dh0i1y4vlfw02u"/>
+      <item title="7" icon="ui://dh0i1y4vlfw02u"/>
+      <item title="8" icon="ui://dh0i1y4vlfw02u"/>
+      <item title="9" icon="ui://dh0i1y4vlfw02u"/>
+      <item title="10" icon="ui://dh0i1y4vlfw02u"/>
+      <item title="11" icon="ui://dh0i1y4vlfw02u"/>
+      <item title="12" icon="ui://dh0i1y4vlfw02u"/>
+      <item title="13" icon="ui://dh0i1y4vlfw02u"/>
+      <item title="14" icon="ui://dh0i1y4vlfw02u"/>
+      <item title="15" icon="ui://dh0i1y4vlfw02u"/>
+      <item title="16" icon="ui://dh0i1y4vlfw02u"/>
+    </list>
+    <group id="n11_t2i0" name="n11" xy="132,89" size="905,521" advanced="true"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="XY" target="n0_t2i0" tween="true" startValue="112,-640" endValue="112,5" duration="24" ease="Elastic.Out"/>
+    <item time="0" type="XY" target="n11_t2i0" tween="true" startValue="171,-640" endValue="132.2,18" duration="26" ease="Elastic.Out"/>
+  </transition>
+  <transition name="OnClose">
+    <item time="0" type="XY" target="n11_t2i0" tween="true" startValue="171,18" endValue="171,-640" duration="12"/>
+    <item time="0" type="XY" target="n0_t2i0" tween="true" startValue="112,0" endValue="112,-640" duration="12"/>
+  </transition>
+</component>

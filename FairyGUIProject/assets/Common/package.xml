@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="jfcixih7" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="gyc24" name="Tip.xml" path="/Tip/" exported="true"/>
+    <component id="gyc25" name="Main.xml" path="/Tip/"/>
+    <component id="ie0i6" name="Main.xml" path="/Top/"/>
+    <component id="ie0i7" name="TopBar.xml" path="/Top/" exported="true"/>
+    <component id="ie0i8" name="xinxi.xml" path="/Top/"/>
+    <component id="ie0i9" name="Touxiang.xml" path="/Top/" exported="true"/>
+    <component id="ie0ib" name="Score.xml" path="/Top/"/>
+    <component id="ie0id" name="ReturnBtn.xml" path="/Top/"/>
+    <component id="ie0if" name="SettingBtn.xml" path="/Top/"/>
+    <component id="ie0ig" name="Main.xml" path="/Bottom/"/>
+    <component id="ie0ih" name="BottomBar.xml" path="/Bottom/" exported="true"/>
+    <component id="ie0ij" name="BagBtn.xml" path="/Bottom/"/>
+    <component id="ie0ik" name="MailBtn.xml" path="/Bottom/"/>
+    <component id="ie0il" name="BankBtn.xml" path="/Bottom/"/>
+    <component id="t2i0m" name="bgMain.xml" path="/Top/Window/" exported="true"/>
+    <component id="t2i0n" name="BgCmp.xml" path="/Top/Window/" exported="true"/>
+    <component id="t2i0o" name="CloseBtn.xml" path="/Top/Window/" exported="true"/>
+    <component id="t2i0p" name="Shade.xml" path="/" exported="true"/>
+    <component id="t2i0q" name="title.xml" path="/Top/Window/" exported="true"/>
+    <component id="t2i0r" name="title_jianfang.xml" path="/Top/Window/" exported="true"/>
+    <component id="jqmqs" name="title_shezhi.xml" path="/Top/Window/" exported="true"/>
+    <image id="jqmqt" name="small_kuang.png" path="/Top/Window/" exported="true"/>
+    <image id="lfw0u" name="0.png" path="/ModelWaitting/"/>
+    <image id="lfw0v" name="02.png" path="/ModelWaitting/"/>
+    <image id="lfw0w" name="1.png" path="/ModelWaitting/"/>
+    <image id="lfw0x" name="2.png" path="/ModelWaitting/"/>
+    <image id="lfw0y" name="4.png" path="/ModelWaitting/"/>
+    <image id="lfw0z" name="5.png" path="/ModelWaitting/"/>
+    <component id="lfw010" name="Button1.xml" path="/ModelWaitting/"/>
+    <component id="lfw011" name="CloseButton.xml" path="/ModelWaitting/"/>
+    <component id="lfw012" name="GlobalModalWaiting.xml" path="/ModelWaitting/" exported="true"/>
+    <movieclip id="lfw014" name="qtm011.jta" path="/ModelWaitting/"/>
+    <component id="lfw017" name="WindowModalWaiting.xml" path="/ModelWaitting/" exported="true"/>
+    <image id="g3kp18" name="ty_ditumb.png" path="/Top/Window/"/>
+    <image id="g3kp1a" name="item_shop_1.png" path="/Top/" scale9grid="35,46,70,92"/>
+    <image id="g3kp1b" name="fangk.png" path="/Top/"/>
+    <component id="g3kp1c" name="btn_fenxiang.xml" path="/"/>
+    <image id="g3kp1d" name="pengyouq.png" path="/fenxiang/" exported="true"/>
+    <image id="g3kp1e" name="pengyq.png" path="/fenxiang/" exported="true"/>
+    <image id="g3kp1f" name="shoucang.png" path="/fenxiang/" exported="true"/>
+    <image id="g3kp1g" name="weixin.png" path="/fenxiang/" exported="true"/>
+    <image id="g3kp1h" name="wenx.png" path="/fenxiang/" exported="true"/>
+    <image id="g3kp1i" name="dtgrxx_hjfhsjd.png" path="/fenxiang/" exported="true" scale="9grid" scale9grid="107,52,214,104"/>
+    <image id="g3kp1j" name="dt_cmdikuang.png" path="/fenxiang/" exported="true" scale="9grid" scale9grid="37,9,74,18"/>
+    <image id="g3kp1k" name="btn_setting.png" path="/Bottom/"/>
+    <image id="g3kp1l" name="btn_youxiang.png" path="/Bottom/"/>
+    <image id="g3kp1m" name="btn_zhanji.png" path="/Bottom/"/>
+    <component id="g3kp1n" name="btn_mail.xml" path="/"/>
+    <component id="g3kp1o" name="btn_zhanji.xml" path="/"/>
+    <component id="g3kp1p" name="btn_setting.xml" path="/"/>
+    <image id="g3kp1t" name="heidi.png" path="/button/" exported="true" scale="9grid" scale9grid="9,9,18,18"/>
+    <image id="g3kp1u" name="di.png" path="/button/" scale="9grid" scale9grid="10,10,20,20"/>
+    <component id="g3kp1v" name="ScrollBar1_grip.xml" path="/button/"/>
+    <component id="g3kp1w" name="ScrollBar1.xml" path="/button/" exported="true"/>
+    <image id="p5k81x" name="redTip.png" path="/Bottom/"/>
+    <component id="czvf1y" name="AskPanel.xml" path="/Ask/" exported="true"/>
+    <image id="czvf1z" name="fram.png" path="/Ask/"/>
+    <image id="czvf20" name="jies_wenzi.png" path="/Ask/"/>
+    <component id="czvf21" name="btn_hong_cmp.xml" path="/Ask/"/>
+    <image id="czvf22" name="btn_hong.png" path="/Ask/"/>
+    <component id="czvf23" name="btn_lv_cmp.xml" path="/Ask/"/>
+    <image id="czvf24" name="btn_lv.png" path="/Ask/"/>
+    <component id="czvf25" name="btn_close_cmp.xml" path="/Ask/"/>
+    <image id="czvf26" name="btn_close.png" path="/Ask/"/>
+    <image id="fxox27" name="跑马灯-底.png" path="/Notice/" exported="true"/>
+    <image id="g3kp2n" name="dt_laba.png" path="/Notice/"/>
+    <component id="fxox2q" name="NoticeCmp.xml" path="/Notice/" exported="true"/>
+  </resources>
+  <publish name="Common"/>
+</packageDescription>

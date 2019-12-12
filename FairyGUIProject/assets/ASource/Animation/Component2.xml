@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="400,400">
+  <displayList>
+    <movieclip id="n0_p1ff" name="n0" src="p1ffy6" xy="-58,-199"/>
+    <movieclip id="n1_p1ff" name="n1" src="p1ffy6" xy="41,-134"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="XY" target="n0_p1ff" tween="true" startValue="90,-146" endValue="319,163" duration="12" ease="Elastic.Out"/>
+    <item time="0" type="XY" target="n1_p1ff" tween="true" startValue="-1,-160" endValue="228,149" duration="12" ease="Elastic.Out"/>
+    <item time="12" type="XY" target="n0_p1ff" tween="true" startValue="319,163" endValue="319,163" duration="6"/>
+    <item time="12" type="XY" target="n1_p1ff" tween="true" startValue="228,149" endValue="228,149" duration="6" ease="Elastic.Out"/>
+    <item time="18" type="Alpha" target="n1_p1ff" value="0"/>
+    <item time="18" type="Alpha" target="n0_p1ff" value="0"/>
+  </transition>
+</component>

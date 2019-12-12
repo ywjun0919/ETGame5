@@ -6,5 +6,6 @@ namespace ETHotfix
     [BsonIgnoreExtraElements]
     public partial class RoleInfo:Entity
     {
+        public long gold;
     }
 }

@@ -34,6 +34,7 @@ namespace ETHotfix
         private void OnBtn_Daikai()
         {
             Log.Debug("OnBtn_Daikai");
+            Game.EventSystem.Run(EventIdType.PokerRoomOpen);
         }
     }
 }

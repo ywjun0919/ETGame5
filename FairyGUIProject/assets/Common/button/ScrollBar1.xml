@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="35,200" overflow="hidden" extention="ScrollBar">
+  <displayList>
+    <image id="n1" name="n1" src="g3kp1t" xy="0,0" size="35,200">
+      <relation target="" sidePair="height-height"/>
+    </image>
+    <graph id="n2" name="bar" xy="0,0" size="35,200">
+      <relation target="" sidePair="height-height"/>
+    </graph>
+    <component id="n3" name="grip" src="g3kp1v" xy="0,20"/>
+  </displayList>
+  <ScrollBar/>
+</component>

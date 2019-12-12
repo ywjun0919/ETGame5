@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="359,37">
+  <displayList>
+    <image id="n15_g3kp" name="n15" src="g3kp5" xy="0,0" size="359,37">
+      <relation target="" sidePair="left-left,top-top"/>
+    </image>
+    <loader id="n21_g3kp" name="icon_header" xy="3,1" size="35,35" url="ui://jra4krmqie0iuz" fill="scaleFree">
+      <relation target="" sidePair="left-left,top-top"/>
+    </loader>
+    <text id="n22_g3kp" name="text_username" xy="44,1" size="226,35" fontSize="18" vAlign="middle" autoSize="shrink" text="asdasasdasdasdasdas">
+      <relation target="n21_g3kp" sidePair="left-left,top-top"/>
+    </text>
+    <text id="n23_g3kp" name="text_result_win" xy="282,1" size="72,35" font="ui://nl2hlwq4w0j3c" fontSize="18" color="#ffffff" align="center" vAlign="middle" autoSize="shrink" text="-1555">
+      <relation target="n22_g3kp" sidePair="left-left,top-top"/>
+    </text>
+    <text id="n24_w0j3" name="text_result_lose" xy="282,1" size="72,35" font="ui://nl2hlwq4w0j39" fontSize="18" color="#ffffff" align="center" vAlign="middle" autoSize="shrink" text="-1555">
+      <relation target="n22_g3kp" sidePair="left-left,top-top"/>
+    </text>
+  </displayList>
+</component>

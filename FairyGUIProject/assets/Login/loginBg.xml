@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640">
+  <displayList>
+    <image id="n1_o1ye" name="n1" src="o1yeuh" fileName="beijingtu.jpg" pkg="jra4krmq" xy="0,0" size="1136,640">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <text id="n4_o1ye" name="n4" xy="913,595" size="202,24" fontSize="12" color="#cccccc" autoSize="none" text="制作qq :5354521993">
+      <relation target="n1_o1ye" sidePair="bottom-bottom,right-right"/>
+    </text>
+    <image id="n14_tesp" name="n14" src="o1yeui" fileName="logo.png" pkg="jra4krmq" xy="0,0" size="1136,640"/>
+    <component id="n15_tesp" name="n15" src="g3kpc" fileName="btn_wichat_denglu.xml" xy="437,528"/>
+    <text id="n16_tesp" name="n16" xy="23,585" size="48,19" fontSize="12" color="#cc6600" autoSize="none" text="Version:">
+      <relation target="" sidePair="rightext-left,bottom-bottom"/>
+    </text>
+    <text id="n17_tesp" name="Ver" xy="72,585" size="48,19" fontSize="12" color="#cc6600" autoSize="none" text="Version">
+      <relation target="" sidePair="rightext-left,bottom-bottom"/>
+    </text>
+    <component id="n18_eipc" name="url" src="eipce" fileName="input.xml" xy="431,437"/>
+    <component id="n19_eipc" name="name" src="eipce" fileName="input.xml" xy="431,345"/>
+    <component id="n20_eipc" name="account" src="eipce" fileName="input.xml" xy="429,254"/>
+  </displayList>
+  <transition name="t1" autoPlay="true" autoPlayDelay="0.001">
+    <item time="0" type="Visible" target="n15_tesp" value="false"/>
+    <item time="0" type="XY" target="n14_tesp" tween="true" startValue="0,-640" endValue="0,0" duration="22" ease="Elastic.Out"/>
+    <item time="22" type="XY" target="n14_tesp" tween="true" startValue="0,0"/>
+    <item time="23" type="Visible" target="n15_tesp" value="true"/>
+  </transition>
+</component>

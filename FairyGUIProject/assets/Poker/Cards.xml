@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <displayList>
+    <list id="n2_haek" name="RoleList" xy="47,402" size="705,182" layout="flow_hz" overflow="scroll" scroll="horizontal" colGap="-69" defaultItem="ui://ckywsbrahaek1m" align="center">
+      <item icon="ui://ckywsbrahaekw"/>
+      <item icon="ui://ckywsbrahaeku"/>
+      <item icon="ui://ckywsbrahaeks"/>
+      <item icon="ui://ckywsbrahaekv"/>
+      <item icon="ui://ckywsbrahaekw"/>
+      <item icon="ui://ckywsbrahaeku"/>
+      <item icon="ui://ckywsbrahaekx"/>
+      <item icon="ui://ckywsbrahaekv"/>
+      <item icon="ui://ckywsbrahaeku"/>
+      <item icon="ui://ckywsbrahaekt"/>
+      <item icon="ui://ckywsbrahaekt"/>
+      <item icon="ui://ckywsbrahaeks"/>
+      <item icon="ui://ckywsbrahaeku"/>
+      <item icon="ui://ckywsbrahaekv"/>
+      <item icon="ui://ckywsbrahaeky"/>
+      <item icon="ui://ckywsbrahaek10"/>
+      <item icon="ui://ckywsbrahaek11"/>
+      <item icon="ui://ckywsbrahaek14"/>
+      <item icon="ui://ckywsbrahaek14"/>
+      <item icon="ui://ckywsbrahaek13"/>
+    </list>
+    <list id="n3_haek" name="RightList" xy="643,37" size="154,359" lineGap="-34" defaultItem="ui://ckywsbrahaek1n" align="center" vAlign="middle">
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+    </list>
+    <list id="n4_haek" name="LeftList" xy="6,27" size="154,359" lineGap="-34" defaultItem="ui://ckywsbrahaek1o" align="center" vAlign="middle">
+      <item/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+      <item icon="ui://ckywsbrahaek16"/>
+    </list>
+  </displayList>
+</component>

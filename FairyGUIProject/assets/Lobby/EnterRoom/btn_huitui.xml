@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="62,60" extention="Button">
+  <displayList>
+    <image id="n55_g3kp" name="n55" src="g3kp2b" fileName="EnterRoom/btn_qingchu.png" xy="0,0" size="62,60" color="#999999"/>
+    <text id="n56_g3kp" name="n56" xy="0,0" size="62,60" fontSize="24" color="#ffff00" align="center" vAlign="middle" autoSize="shrink" text="回退"/>
+  </displayList>
+  <Button sound="ui://jra4krmqssnbym" downEffect="scale" downEffectValue="0.80"/>
+</component>

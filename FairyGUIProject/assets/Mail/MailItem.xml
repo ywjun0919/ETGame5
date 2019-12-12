@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="810,120" extention="Button">
+  <displayList>
+    <image id="n0_t2i0" name="Bg" src="t2i0w0" fileName="Mail/yj_kk.png" pkg="jra4krmq" xy="0,0" size="810,120">
+      <relation target="" sidePair="left-left,top-top"/>
+    </image>
+    <text id="n2_t2i0" name="title" xy="166,5" size="442,97" group="n5_t2i0" fontSize="30" color="#ffffff" vAlign="middle" autoSize="none" text="这是邮箱的标题"/>
+    <loader id="n3_t2i0" name="flagIcon" xy="679,5" size="120,100" group="n5_t2i0"/>
+    <loader id="n4_t2i0" name="Icon" xy="53,21" size="61,74" group="n5_t2i0"/>
+    <group id="n5_t2i0" name="n5" xy="53,5" size="746,100"/>
+  </displayList>
+  <Button sound="ui://jra4krmqssnbym" downEffect="scale" downEffectValue="0.80"/>
+</component>

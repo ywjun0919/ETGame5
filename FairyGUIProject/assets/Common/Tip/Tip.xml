@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="29,64" anchor="true" overflow="hidden">
+  <displayList>
+    <image id="n0_gyc2" name="bg" src="gyc2ux" pkg="jra4krmq" xy="0,0" size="29,64">
+      <relation target="" sidePair="rightext-right,bottom-bottom"/>
+    </image>
+    <text id="n1_gyc2" name="textContent" xy="6,12" size="22,38" fontSize="30" color="#00ff00" align="center" vAlign="middle" letterSpacing="2" text="1"/>
+  </displayList>
+  <relation target="n1_gyc2" sidePair="rightext-right,height-height"/>
+</component>

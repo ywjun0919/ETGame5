@@ -10,6 +10,7 @@
 
         public const string RoomOpen = "RoomOpen";
         public const string MailOpen = "MailOpen";
+        public const string PokerRoomOpen = "PokerRoomOpen";
 
 	}
 }

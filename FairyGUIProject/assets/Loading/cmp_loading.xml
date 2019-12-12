@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640" anchor="true" adaptationTest="FitSize">
+  <displayList>
+    <image id="n1_fafy" name="n1" src="fafy2" fileName="bg1.jpg" xy="0,0" size="1136,640">
+      <relation target="" sidePair="left-left,top-top"/>
+      <relation target="" sidePair="rightext-right,bottomext-top"/>
+    </image>
+    <movieclip id="n0_fafy" name="ani_shaizi" src="fafy1" fileName="Shaizi.jta" xy="939,486">
+      <relation target="" sidePair="leftext-left,bottomext-bottom"/>
+      <relation target="" sidePair="left-left,top-bottom"/>
+    </movieclip>
+    <text id="n2_fafy" name="text_ver" xy="263,609" size="609,31" fontSize="24" autoSize="shrink" text="开始检查游戏更新...">
+      <relation target="" sidePair="width-width"/>
+      <relation target="" sidePair="left-left,top-bottom"/>
+    </text>
+  </displayList>
+  <relation target="" sidePair="rightext-right,height-height"/>
+</component>

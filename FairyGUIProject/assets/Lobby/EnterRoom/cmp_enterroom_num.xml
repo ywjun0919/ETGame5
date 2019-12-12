@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="660,432" adaptationTest="FitSize">
+  <displayList>
+    <component id="n13_g3kp" name="frame" src="g3kp29" xy="0,0"/>
+    <image id="n20_g3kp" name="n20" src="g3kp27" xy="19,72" size="274,60" group="n23_g3kp"/>
+    <text id="n21_g3kp" name="text_roomnum" xy="36,84" size="225,38" group="n23_g3kp" font="ui://l8xvrp74ni6v2o" fontSize="30" color="#ffffff" vAlign="middle" leading="2" letterSpacing="8" autoSize="none" bold="true" text="122255"/>
+    <group id="n23_g3kp" name="n23" xy="19,72" size="274,60"/>
+    <component id="n14_g3kp" name="num_2" src="g3kp28" xy="528,72" group="n57_g3kp"/>
+    <component id="n44_g3kp" name="num_0" src="g3kp28" xy="324,72" group="n57_g3kp"/>
+    <component id="n45_g3kp" name="num_1" src="g3kp28" xy="426,72" group="n57_g3kp"/>
+    <component id="n46_g3kp" name="num_3" src="g3kp28" xy="324,162" group="n57_g3kp"/>
+    <component id="n47_g3kp" name="num_4" src="g3kp28" xy="426,162" group="n57_g3kp"/>
+    <component id="n48_g3kp" name="num_5" src="g3kp28" xy="528,162" group="n57_g3kp"/>
+    <component id="n49_g3kp" name="num_8" src="g3kp28" xy="528,252" group="n57_g3kp"/>
+    <component id="n50_g3kp" name="num_6" src="g3kp28" xy="324,252" group="n57_g3kp"/>
+    <component id="n51_g3kp" name="num_7" src="g3kp28" xy="426,252" group="n57_g3kp"/>
+    <component id="n53_g3kp" name="num_9" src="g3kp28" xy="426,342" group="n57_g3kp"/>
+    <component id="n55_g3kp" name="num_huitui" src="g3kp2d" xy="528,342" group="n57_g3kp"/>
+    <component id="n56_g3kp" name="num_qingkong" src="g3kp2e" xy="324,342" group="n57_g3kp"/>
+    <group id="n57_g3kp" name="gp_numkey" xy="324,72" size="266,330" advanced="true"/>
+  </displayList>
+</component>

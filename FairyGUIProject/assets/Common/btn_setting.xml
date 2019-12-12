@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="81,83" extention="Button">
+  <displayList>
+    <image id="n5_g3kp" name="btn_setting" src="g3kp1k" xy="0,0" size="81,83"/>
+  </displayList>
+  <Button downEffect="dark" downEffectValue="0.80"/>
+</component>

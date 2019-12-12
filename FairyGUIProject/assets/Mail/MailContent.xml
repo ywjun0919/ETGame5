@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640" mask="n5_t2i0">
+  <displayList>
+    <graph id="n5_t2i0" name="n5" xy="2,0" size="1136,640" type="rect" lineColor="#00000000" fillColor="#1f330066"/>
+    <component id="n0_t2i0" name="frame" src="x2fdd" xy="144,85"/>
+    <text id="n1_t2i0" name="title" xy="258,179" size="313,39" fontSize="30" color="#cccccc" autoSize="none" text="这里是标题">
+      <relation target="n2_t2i0" sidePair="top-top,left-left"/>
+    </text>
+    <image id="n2_t2i0" name="n2" src="t2i0vy" pkg="jra4krmq" xy="217,186">
+      <relation target="" sidePair="left-left,top-top"/>
+    </image>
+    <component id="n3_t2i0" name="content" src="t2i0a" xy="315,226" size="602,246">
+      <relation target="n1_t2i0" sidePair="left-left,top-top"/>
+    </component>
+  </displayList>
+</component>

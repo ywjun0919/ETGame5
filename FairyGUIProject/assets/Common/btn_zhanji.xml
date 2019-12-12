@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="87,83" extention="Button">
+  <displayList>
+    <image id="n4_g3kp" name="btn_zhanji" src="g3kp1m" xy="0,0" size="87,83"/>
+  </displayList>
+  <Button downEffect="dark" downEffectValue="0.80"/>
+</component>

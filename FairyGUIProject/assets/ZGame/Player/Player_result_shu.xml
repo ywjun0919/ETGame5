@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="92,111" extention="Button">
+  <displayList>
+    <loader id="n7_dagi" name="bg" xy="0,0" size="92,111" url="ui://dh0i1y4vlfw02i" fill="scaleFree"/>
+    <loader id="n3_lfw0" name="header" xy="3,3" size="87,84" url="ui://jra4krmqie0iuz" fill="scaleFree" shrinkOnly="true">
+      <relation target="" sidePair="left-left,top-top"/>
+    </loader>
+    <image id="n2_lfw0" name="n2" src="lfw02f" fileName="zjm_touxiangkuang.png" xy="3,3" size="87,84">
+      <relation target="" sidePair="left-left,top-top"/>
+    </image>
+    <text id="n4_lfw0" name="userName" xy="5,89" size="79,18" fontSize="12" color="#ffff00" autoSize="none" text="张学友哦哦哦0&#xA;">
+      <relation target="n2_lfw0" sidePair="left-left,top-top"/>
+    </text>
+    <image id="n11_dagi" name="lixian" src="dagi45" fileName="lixian.png" xy="1,2" size="92,85"/>
+  </displayList>
+  <Button/>
+</component>

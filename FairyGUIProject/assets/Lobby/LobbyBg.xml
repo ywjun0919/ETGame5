@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640">
+  <displayList>
+    <image id="n3_t2i0" name="n3" src="o1yeuh" fileName="beijingtu.jpg" pkg="jra4krmq" xy="0,0" size="1136,640"/>
+    <image id="n2_t2i0" name="n2" src="t2i0w4" fileName="Lobby/dt_meinv.png" pkg="jra4krmq" xy="5,153"/>
+    <component id="n4_t2i0" name="n4" src="t2i08" fileName="HelpBtn.xml" xy="231,171"/>
+    <component id="n8_t2i0" name="CreateRoomBtn" src="t2i06" fileName="CreateRoomButton.xml" xy="624,93"/>
+    <component id="n9_t2i0" name="EnterRoomBtn" src="t2i07" fileName="EnterRoomButton.xml" xy="624,236"/>
+    <component id="n12_g3kp" name="DaikaiBtn" src="g3kp1w" fileName="btn_lobby_daikaifangjian.xml" xy="624,372"/>
+    <image id="n19_g3kp" name="n19" src="g3kp24" fileName="gonggao.png" xy="933,122"/>
+    <image id="n20_g3kp" name="n20" src="g3kp2g" fileName="dt_didi.png" xy="0,565" size="1139,74">
+      <relation target="" sidePair="leftext-left,rightext-right"/>
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </image>
+  </displayList>
+</component>

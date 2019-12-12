@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="236,64">
+  <displayList>
+    <loader id="n0_ie0i" name="touxiang" xy="0,0" size="63,63" url="ui://jfcixih7g3kp1a" fill="scaleFree">
+      <relation target="" sidePair="left-left,top-top"/>
+    </loader>
+    <text id="n1_ie0i" name="username" xy="66,0" size="144,32" fontSize="24" color="#993300" autoSize="none" text="李时珍">
+      <relation target="n2_ie0i" sidePair="left-right"/>
+    </text>
+    <image id="n2_ie0i" name="n2" src="ie0iuy" pkg="jra4krmq" xy="0,-1" size="64,64">
+      <relation target="n0_ie0i" sidePair="left-left,top-top"/>
+    </image>
+  </displayList>
+</component>

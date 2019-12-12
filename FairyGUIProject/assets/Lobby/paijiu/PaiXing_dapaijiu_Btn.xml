@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="180,67" extention="Button">
+  <displayList>
+    <image id="n8_vj4z" name="n8" src="vj4zwt" fileName="Common/bb_zs.png" pkg="jra4krmq" xy="0,0" size="180,67"/>
+    <text id="n18_vj4z" name="n18" xy="37,11" size="95,39" fontSize="30" color="#ffffff" autoSize="none" text="大牌九"/>
+  </displayList>
+  <Button sound="ui://jra4krmqcdm8yo" downEffect="scale" downEffectValue="0.80"/>
+</component>

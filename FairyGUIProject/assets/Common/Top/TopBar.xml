@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1088,64">
+  <displayList>
+    <image id="n7_t2i0" name="n7" src="t2i0w5" pkg="jra4krmq" xy="0,0" size="1088,70"/>
+    <component id="n0_ie0i" name="cmp_touxiang" src="ie0i9" xy="2,-1">
+      <relation target="" sidePair="left-left,top-top"/>
+    </component>
+    <component id="n1_ie0i" name="fangka" src="ie0ib" xy="100,29" size="119,32" group="n3_ie0i"/>
+    <component id="n5_ie0i" name="n5" src="ie0id" xy="1024,0" size="64,64" group="n3_ie0i"/>
+    <component id="n8_g3kp" name="btn_fenxiang" src="g3kp1c" xy="918,2" group="n3_ie0i"/>
+    <group id="n3_ie0i" name="fenshuGroup" xy="100,0" size="988,64"/>
+  </displayList>
+  <transition name="t0" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="XY" target="n8_g3kp" tween="true" startValue="918,2" endValue="918,8" duration="24" ease="Bounce.In"/>
+  </transition>
+</component>

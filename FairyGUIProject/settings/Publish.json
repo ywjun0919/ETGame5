@@ -1,0 +1,19 @@
+{
+	"atlasSetting":{
+		"paging":true,
+		"sizeOption":"pot"
+	},
+	"binaryFormat":true,
+	"codeGeneration":{
+		"classNamePrefix":"Dlg",
+		"codePath":"D:\\workspace\\PlanB\\Export",
+		"codeType":"",
+		"getMemberByName":true,
+		"ignoreNoname":true,
+		"memberNamePrefix":"m_",
+		"packageName":"ETHotfix"
+	},
+	"compressDesc":true,
+	"packageCount":2,
+	"path":"D:\\workspace\\PlanB\\ET-master\\Unity\\Assets\\Resources\\UI"
+}

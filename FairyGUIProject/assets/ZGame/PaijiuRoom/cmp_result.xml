@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="745,496" adaptationTest="FitHeightAndSetCenter">
+  <displayList>
+    <graph id="n54_dagi" name="n54" xy="13,65" size="722,407" type="rect" fillColor="#ff660000"/>
+    <image id="n23_dagi" name="n23" src="gyc2uw" pkg="jra4krmq" xy="0,60" size="745,436" blend="none"/>
+    <image id="n24_dagi" name="n24" src="dagi48" xy="138,-1"/>
+    <text id="n25_dagi" name="text_guize" xy="25,363" size="691,36" fontSize="14" color="#ffffff" align="center" vAlign="middle" autoSize="shrink" text="规则：谢谢谢谢谢谢谢谢谢谢谢谢谢谢谢谢谢"/>
+    <image id="n27_dagi" name="n27" src="t2i0vt" pkg="jra4krmq" xy="26,361" size="691,36" hideByEditor="true"/>
+    <component id="n28_dagi" name="btn_zhanji_fenxiang" src="dagi4b" xy="112,400" group="n30_dagi"/>
+    <component id="n29_dagi" name="btn_zhanji_fanhuidating" src="dagi4c" xy="483,401" group="n30_dagi"/>
+    <group id="n30_dagi" name="n30" xy="112,400" size="520,51"/>
+    <list id="n53_dagi" name="dataList" xy="29,83" size="691,272" layout="row" overflow="scroll" scroll="horizontal" colGap="5" defaultItem="ui://dh0i1y4vdagi4j" align="center" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

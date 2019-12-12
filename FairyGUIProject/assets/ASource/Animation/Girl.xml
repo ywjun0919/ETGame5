@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640" adaptationTest="FitSize">
+  <displayList>
+    <image id="n16_t2i0" name="n16" src="o1yeuh" xy="0,0" size="1136,640"/>
+    <image id="n7_t2i0" name="n7" src="t2i0vm" xy="799,341"/>
+    <image id="n10_t2i0" name="n10" src="t2i0vj" xy="923,275" group="n15_t2i0"/>
+    <image id="n12_t2i0" name="n12" src="t2i0vd" xy="781,97" group="n15_t2i0"/>
+    <image id="n2_t2i0" name="n2" src="t2i0vh" xy="881,201" group="n15_t2i0"/>
+    <image id="n3_t2i0" name="n3" src="t2i0vg" xy="864,158" group="n15_t2i0"/>
+    <image id="n4_t2i0" name="n4" src="t2i0vf" xy="818,264" group="n15_t2i0"/>
+    <image id="n0_t2i0" name="n0" src="t2i0vi" xy="934,265" pivot="0.2,1" group="n15_t2i0"/>
+    <image id="n8_t2i0" name="n8" src="t2i0vl" xy="869,234" size="54,59" group="n15_t2i0"/>
+    <image id="n9_t2i0" name="n9" src="t2i0vk" xy="847,99" group="n15_t2i0"/>
+    <image id="n13_t2i0" name="n13" src="t2i0ve" xy="965,171" group="n15_t2i0"/>
+    <image id="n5_t2i0" name="n5" src="t2i0vb" xy="831,337" group="n15_t2i0"/>
+    <image id="n6_t2i0" name="n6" src="t2i0vc" xy="898,343" group="n15_t2i0"/>
+    <image id="n14_t2i0" name="n14" src="t2i0vl" xy="834,138" size="52,49" group="n15_t2i0"/>
+    <group id="n15_t2i0" name="n15" xy="781,97" size="256,314" advanced="true" collapsed="true"/>
+    <image id="n17_t2i0" name="n17" src="t2i0w2" xy="227,143"/>
+    <movieclip id="n18_p1ff" name="n18" src="rg77xl" xy="552,226" size="58,51"/>
+  </displayList>
+  <transition name="tou" autoPlay="true" autoPlayRepeat="-1" autoPlayDelay="1.000">
+    <item time="0" type="Visible" target="n9_t2i0" value="true"/>
+    <item time="0" type="Visible" target="n3_t2i0" value="true"/>
+    <item time="0" type="Visible" target="n2_t2i0" value="false"/>
+    <item time="18" type="Visible" target="n9_t2i0" value="true"/>
+    <item time="24" type="Visible" target="n2_t2i0" value="true"/>
+    <item time="24" type="Visible" target="n3_t2i0" value="false"/>
+  </transition>
+  <transition name="guang" autoPlay="true" autoPlayRepeat="-1" autoPlayDelay="1.000">
+    <item time="0" type="Visible" target="n8_t2i0" value="false"/>
+    <item time="0" type="Visible" target="n14_t2i0" value="true"/>
+    <item time="15" type="Visible" target="n14_t2i0" value="false"/>
+    <item time="15" type="Visible" target="n8_t2i0" value="true"/>
+  </transition>
+</component>

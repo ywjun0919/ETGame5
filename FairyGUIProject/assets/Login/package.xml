@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="jhf40ae4" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="o1ye1" name="loginBg.xml" path="/" exported="true"/>
+    <component id="tesp7" name="LoginBtn.xml" path="/"/>
+    <component id="tespa" name="AccountLoginBtn.xml" path="/"/>
+    <image id="g3kpb" name="btn_denglu.png" path="/"/>
+    <component id="g3kpc" name="btn_wichat_denglu.xml" path="/"/>
+    <image id="eipcd" name="dlzc_sfk.png" path="/" scale="9grid" scale9grid="4,4,22,52"/>
+    <component id="eipce" name="input.xml" path="/"/>
+  </resources>
+  <publish name="Login"/>
+</packageDescription>

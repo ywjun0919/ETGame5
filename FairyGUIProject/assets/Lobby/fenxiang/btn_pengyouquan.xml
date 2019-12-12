@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="119,119" extention="Button">
+  <displayList>
+    <image id="n25_g3kp" name="n25" src="g3kp1d" fileName="fenxiang/pengyouq.png" pkg="jfcixih7" xy="0,0"/>
+  </displayList>
+  <Button sound="ui://jra4krmqcdm8yn" downEffect="scale" downEffectValue="0.80"/>
+</component>

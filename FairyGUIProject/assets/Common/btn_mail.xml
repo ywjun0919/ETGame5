@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="81,83" extention="Button">
+  <displayList>
+    <image id="n6_g3kp" name="btn_mail" src="g3kp1l" xy="0,0" size="81,83">
+      <relation target="" sidePair="right-right"/>
+    </image>
+    <image id="n7_p5k8" name="redTip" src="p5k81x" xy="51,6" size="20,20"/>
+  </displayList>
+  <Button downEffect="dark" downEffectValue="0.80"/>
+</component>

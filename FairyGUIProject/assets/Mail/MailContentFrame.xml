@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="883,495" extention="Label">
+  <displayList>
+    <image id="n0_t2i0" name="frame" src="t2i0vu" pkg="jra4krmq" xy="0,0"/>
+    <component id="n4_t2i0" name="closeButton" src="t2i0b" xy="326,412" size="193,59"/>
+  </displayList>
+</component>

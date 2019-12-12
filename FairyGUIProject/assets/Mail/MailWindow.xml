@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640">
+  <displayList>
+    <component id="n2_t2i0" name="frame" src="t2i0m" pkg="jfcixih7" xy="112,5"/>
+    <image id="n3_t2i0" name="n3" src="t2i0vt" pkg="jra4krmq" xy="171,117" size="818,34">
+      <relation target="n2_t2i0" sidePair="top-top,left-center"/>
+    </image>
+    <text id="n4_t2i0" name="n4" xy="322,116" size="510,38" fontSize="22" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="系统最多显示30封邮件，邮件保存7天">
+      <relation target="n3_t2i0" sidePair="left-left,top-top"/>
+    </text>
+    <image id="n5_t2i0" name="n5" src="t2i0vu" pkg="jra4krmq" xy="170,169" size="818,418" flip="vt">
+      <relation target="n3_t2i0" sidePair="left-left,top-top"/>
+    </image>
+    <list id="n7_t2i0" name="dataList" xy="170,170" size="818,418" overflow="scroll" scrollBarFlags="80" scrollBar="visible" margin="2,2,2,2" clipSoftness="2,2" lineGap="5" autoItemSize="false" align="center" vAlign="middle"/>
+    <graph id="n6_t2i0" name="contentArea" xy="170,169" size="818,418"/>
+    <image id="n9_t2i0" name="wuxiaoxiIcon" src="t2i0vw" pkg="jra4krmq" xy="393,277" group="n11_t2i0"/>
+    <text id="n10_t2i0" name="wixiaoxiText" xy="476,497" size="209,30" group="n11_t2i0" fontSize="22" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="暂无邮件">
+      <relation target="n9_t2i0" sidePair="left-left,top-top"/>
+    </text>
+    <group id="n11_t2i0" name="wuxiaoxi" xy="393,277" size="369,250" visible="false" advanced="true" collapsed="true">
+      <relation target="" sidePair="left-left,top-top"/>
+    </group>
+  </displayList>
+  <relation target="n5_t2i0" sidePair="width-width,height-height"/>
+  <transition name="t0" autoPlay="true">
+    <item time="0" type="XY" target="n7_t2i0" tween="true" startValue="170,-600" endValue="170,170" duration="26" ease="Elastic.Out"/>
+    <item time="0" type="XY" target="n11_t2i0" tween="true" startValue="337.8,-312.8" endValue="393,277" duration="26" ease="Elastic.Out"/>
+    <item time="0" type="XY" target="n2_t2i0" tween="true" startValue="112,-633" endValue="112,5" duration="24" ease="Elastic.Out"/>
+    <item time="0" type="XY" target="n6_t2i0" value="171,-600"/>
+    <item time="26" type="XY" target="n6_t2i0" value="171,169.2"/>
+  </transition>
+  <transition name="OnClose" options="2">
+    <item time="0" type="XY" target="n6_t2i0" value="171,169.2"/>
+    <item time="0" type="XY" target="n11_t2i0" tween="true" startValue="393,277" endValue="374,-312.6" duration="12"/>
+    <item time="0" type="XY" target="n2_t2i0" tween="true" startValue="112,5" endValue="112,-636" duration="12"/>
+    <item time="0" type="XY" target="n7_t2i0" tween="true" startValue="170,170" endValue="170,-600" duration="12"/>
+    <item time="12" type="XY" target="n6_t2i0" value="170,-600"/>
+  </transition>
+</component>

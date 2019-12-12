@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="112,68" initName="title">
+  <displayList>
+    <text id="n7_t2i0" name="Title" xy="0,0" size="112,68" fontSize="50" color="#ffff66" align="center" vAlign="middle" autoSize="none" bold="true" strokeColor="#660000" strokeSize="5" shadowColor="#660000" shadowOffset="1,1" text="战绩"/>
+  </displayList>
+</component>

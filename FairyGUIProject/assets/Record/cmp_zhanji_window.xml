@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640" adaptationTest="FitSize">
+  <displayList>
+    <component id="n2_t2i0" name="frame" src="g3kp1" xy="112,5">
+      <Label title="战绩"/>
+    </component>
+    <image id="n3_t2i0" name="n3" src="t2i0vt" pkg="jra4krmq" xy="171,117" size="818,34">
+      <relation target="n2_t2i0" sidePair="top-top,left-center"/>
+    </image>
+    <text id="n4_t2i0" name="n4" xy="322,116" size="510,38" fontSize="22" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="您的对战记录">
+      <relation target="n3_t2i0" sidePair="left-left,top-top"/>
+    </text>
+    <image id="n5_t2i0" name="n5" src="t2i0vu" pkg="jra4krmq" xy="170,169" size="818,418" flip="vt">
+      <relation target="n3_t2i0" sidePair="left-left,top-top"/>
+    </image>
+    <text id="n6_g3kp" name="text_wuzhanji" xy="251,282" size="658,111" visible="false" fontSize="24" color="#ffff00" align="center" vAlign="middle" autoSize="none" text="暂无战绩，赶快跟小伙伴们一起玩耍吧"/>
+    <list id="n7_g3kp" name="dataList" xy="170,170" size="818,418" overflow="scroll" scrollBarRes="ui://jfcixih7g3kp1w," lineGap="2" defaultItem="ui://nl2hlwq4g3kp4" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+  <relation target="n5_t2i0" sidePair="width-width,height-height"/>
+  <transition name="t0" autoPlay="true">
+    <item time="0" type="XY" target="n6_g3kp" tween="true" startValue="249.56,-326.64" endValue="249,282" duration="24" ease="Elastic.Out"/>
+    <item time="0" type="XY" target="n7_g3kp" tween="true" startValue="170,-469" endValue="170,169" duration="24" ease="Elastic.Out"/>
+    <item time="0" type="XY" target="n2_t2i0" tween="true" startValue="112,-633" endValue="112,5" duration="24" ease="Elastic.Out"/>
+  </transition>
+  <transition name="OnClose" options="2">
+    <item time="0" type="XY" target="n2_t2i0" tween="true" startValue="112,5" endValue="112,-636" duration="12"/>
+    <item time="0" type="XY" target="n7_g3kp" tween="true" startValue="170,170" endValue="170,-636" duration="12"/>
+    <item time="0" type="XY" target="n6_g3kp" tween="true" startValue="251,282" endValue="251,-472" duration="12"/>
+  </transition>
+</component>

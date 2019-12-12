@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="664,332">
+  <controller name="Radio_Xiazhu" pages="0,Liangdao,1,Sandao" selected="0"/>
+  <controller name="Radio_Qiangzhuang" pages="0,lunzhuang,1,qiangzhuang,2,bawangzhuang" selected="0"/>
+  <controller name="Radio_Fenshu" pages="0,meicixuan,1,gudingfen" selected="1"/>
+  <displayList>
+    <image id="n4_vj4z" name="SettingContent_Dapaijiu" src="gyc2uw" pkg="jra4krmq" xy="0,0" size="664,332"/>
+    <text id="n5_vj4z" name="n5" xy="16,16" size="142,39" group="n61_cbzt" fontSize="24" color="#ffffff" autoSize="none" bold="true" text="选择局数"/>
+    <image id="n20_cbzt" name="n20" src="cbztx6" pkg="jra4krmq" xy="167,14" size="53,36" group="n57_cbzt"/>
+    <text id="n22_cbzt" name="n22" xy="232,14" size="24,28" group="n57_cbzt" fontSize="20" color="#ffffff" text="X1"/>
+    <group id="n57_cbzt" name="n57" xy="167,14" size="89,36" group="n59_cbzt" collapsed="true"/>
+    <group id="n59_cbzt" name="Jushu" xy="167,14" size="89,36" group="n61_cbzt" collapsed="true"/>
+    <group id="n61_cbzt" name="Jushu_G" xy="16,14" size="240,41" collapsed="true"/>
+    <text id="n6_vj4z" name="n6" xy="16,65" size="142,39" group="n62_cbzt" fontSize="24" color="#ffffff" autoSize="none" bold="true" text="下注规则"/>
+    <component id="n25_cbzt" name="Liangdaogang" src="cbztk" xy="166,64" size="24,24" group="n54_cbzt">
+      <Button checked="true" controller="Radio_Xiazhu" page="0"/>
+    </component>
+    <text id="n26_cbzt" name="n26" xy="200,63" size="65,28" group="n54_cbzt" fontSize="20" color="#ffffff" text="两道杠"/>
+    <group id="n54_cbzt" name="n54" xy="166,63" size="102,28" group="n56_cbzt"/>
+    <component id="n27_cbzt" name="Sandaogang" src="cbztk" xy="290,64" size="24,24" group="n55_cbzt">
+      <Button controller="Radio_Xiazhu" page="1"/>
+    </component>
+    <text id="n28_cbzt" name="n28" xy="324,63" size="65,28" group="n55_cbzt" fontSize="20" color="#ffffff" text="三道杠"/>
+    <group id="n55_cbzt" name="n55" xy="290,63" size="102,28" group="n56_cbzt"/>
+    <group id="n56_cbzt" name="Xiazhu" xy="166,63" size="226,28" group="n62_cbzt"/>
+    <group id="n62_cbzt" name="XIazhu_G" xy="16,63" size="376,41"/>
+    <text id="n9_vj4z" name="n9" xy="16,112" size="142,39" group="n63_cbzt" fontSize="24" color="#ffffff" autoSize="none" bold="true" text="选庄规则"/>
+    <component id="n29_cbzt" name="Lunzhuang" src="cbztk" xy="166,110" size="24,24" group="n50_cbzt">
+      <Button checked="true" controller="Radio_Qiangzhuang" page="0"/>
+    </component>
+    <text id="n30_cbzt" name="n30" xy="200,110" size="45,28" group="n50_cbzt" fontSize="20" color="#ffffff" text="轮庄"/>
+    <group id="n50_cbzt" name="n50" xy="166,110" size="81,28" group="n53_cbzt"/>
+    <component id="n31_cbzt" name="Qiangzhuang" src="cbztk" xy="290,110" size="24,24" group="n51_cbzt">
+      <Button controller="Radio_Qiangzhuang" page="1"/>
+    </component>
+    <text id="n32_cbzt" name="n32" xy="324,110" size="45,28" group="n51_cbzt" fontSize="20" color="#ffffff" text="抢庄"/>
+    <group id="n51_cbzt" name="n51" xy="290,110" size="81,28" group="n53_cbzt"/>
+    <component id="n33_cbzt" name="Bawangzhuang" src="cbztk" xy="414,110" size="24,24" group="n52_cbzt">
+      <Button controller="Radio_Qiangzhuang" page="2"/>
+    </component>
+    <text id="n34_cbzt" name="n34" xy="448,110" size="65,28" group="n52_cbzt" fontSize="20" color="#ffffff" text="霸王庄"/>
+    <group id="n52_cbzt" name="n52" xy="414,110" size="102,28" group="n53_cbzt"/>
+    <group id="n53_cbzt" name="Xuanzhuang" xy="166,110" size="350,28" group="n63_cbzt" collapsed="true"/>
+    <group id="n63_cbzt" name="Xuanzhuang_G" xy="16,110" size="500,41" collapsed="true"/>
+    <text id="n7_vj4z" name="n7" xy="14,161" size="142,39" group="n64_cbzt" fontSize="24" color="#ffffff" autoSize="none" bold="true" text="财神玩法"/>
+    <component id="n35_cbzt" name="Qingcaishen" src="cbztm" xy="166,159" size="24,24" group="n49_cbzt">
+      <Button checked="true"/>
+    </component>
+    <text id="n36_cbzt" name="n36" xy="200,159" size="65,28" group="n49_cbzt" fontSize="20" color="#ffffff" text="请财神"/>
+    <group id="n49_cbzt" name="Caishen" xy="166,159" size="102,28" group="n64_cbzt" collapsed="true"/>
+    <group id="n64_cbzt" name="Caishen_G" xy="14,159" size="254,41" collapsed="true"/>
+    <text id="n8_vj4z" name="n8" xy="17,208" size="142,39" group="n65_cbzt" fontSize="24" color="#ffffff" autoSize="none" bold="true" text="牌型规则"/>
+    <component id="n37_cbzt" name="Paixing_Zhandan" src="cbztm" xy="167,206" size="24,24" group="n45_cbzt"/>
+    <text id="n38_cbzt" name="n38" xy="201,206" size="45,30" group="n45_cbzt" fontSize="20" color="#ffffff" text="炸弹&#xA;"/>
+    <group id="n45_cbzt" name="n45" xy="167,206" size="81,30" group="n60_cbzt" collapsed="true"/>
+    <component id="n39_cbzt" name="Paixing_Dijiuniang" src="cbztm" xy="268,206" size="24,24" group="n46_cbzt"/>
+    <text id="n40_cbzt" name="n40" xy="302,206" size="85,30" group="n46_cbzt" fontSize="20" color="#ffffff" text="地九娘娘&#xA;"/>
+    <group id="n46_cbzt" name="n46" xy="268,206" size="123,30" group="n60_cbzt" collapsed="true"/>
+    <component id="n41_cbzt" name="Paixing_Guizi" src="cbztm" xy="411,206" size="24,24" group="n47_cbzt">
+      <Button checked="true"/>
+    </component>
+    <text id="n42_cbzt" name="n42" xy="445,206" size="45,28" group="n47_cbzt" fontSize="20" color="#ffffff" text="鬼子"/>
+    <group id="n47_cbzt" name="n47" xy="411,206" size="81,28" group="n60_cbzt" collapsed="true"/>
+    <component id="n43_cbzt" name="Paixing_Tianjiuwang" src="cbztm" xy="512,206" size="24,24" group="n48_cbzt">
+      <Button checked="true"/>
+    </component>
+    <text id="n44_cbzt" name="n44" xy="546,206" size="65,28" group="n48_cbzt" fontSize="20" color="#ffffff" text="天九王"/>
+    <group id="n48_cbzt" name="n48" xy="512,206" size="102,28" group="n60_cbzt" collapsed="true"/>
+    <group id="n60_cbzt" name="Paixing" xy="167,206" size="447,30" group="n65_cbzt" collapsed="true"/>
+    <group id="n65_cbzt" name="Paixing_G" xy="17,206" size="597,41" collapsed="true"/>
+    <text id="n10_vj4z" name="n10" xy="17,258" size="142,39" group="n73_cbzt" fontSize="24" color="#ffffff" autoSize="none" bold="true" text="分数规则"/>
+    <component id="n66_cbzt" name="Fenshu_Meici" src="cbztk" xy="166,257" size="24,24" group="n68_cbzt">
+      <Button controller="Radio_Fenshu" page="0"/>
+    </component>
+    <text id="n67_cbzt" name="n67" xy="200,256" size="85,28" group="n68_cbzt" fontSize="20" color="#ffffff" text="每次选分"/>
+    <group id="n68_cbzt" name="n68" xy="166,256" size="123,28" group="n74_cbzt" collapsed="true"/>
+    <component id="n69_cbzt" name="Fenshu_Guding" src="cbztk" xy="290,257" size="24,24" group="n71_cbzt">
+      <Button checked="true" controller="Radio_Fenshu" page="1"/>
+    </component>
+    <text id="n70_cbzt" name="n70" xy="324,256" size="85,28" group="n71_cbzt" fontSize="20" color="#ffffff" text="固定分数"/>
+    <component id="n75_rg77" name="Fenshu_ComboBox" src="cbzts" xy="414,247" size="110,47" group="n71_cbzt">
+      <gearDisplay controller="Radio_Fenshu" pages="1"/>
+      <ComboBox title="8分" titleColor="#ffffff" visibleItemCount="10" direction="up">
+        <item title="1分" value="1"/>
+        <item title="2分" value="2"/>
+        <item title="5分" value="5"/>
+        <item title="8分" value="8"/>
+        <item title="10分" value="10"/>
+      </ComboBox>
+    </component>
+    <group id="n71_cbzt" name="n71" xy="290,247" size="234,47" group="n74_cbzt"/>
+    <group id="n74_cbzt" name="Fenshu" xy="166,247" size="358,47" group="n73_cbzt"/>
+    <group id="n73_cbzt" name="Fenshu_G" xy="17,247" size="507,50" collapsed="true"/>
+  </displayList>
+</component>

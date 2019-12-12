@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="149,50" extention="Button">
+  <displayList>
+    <image id="n29_dagi" name="n29" src="rg77y1" fileName="CreateRoom/anniu_lanxiao.png" pkg="jra4krmq" xy="0,0" size="149,50"/>
+    <text id="n33_dagi" name="n33" xy="0,0" size="149,50" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="添加陪玩&#xA;"/>
+  </displayList>
+  <Button downEffect="dark" downEffectValue="0.80"/>
+</component>

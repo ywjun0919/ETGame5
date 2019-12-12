@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="jra4krmq">
+  <resources>
+    <image id="o1yeuh" name="beijingtu.jpg" path="/" exported="true" scale="9grid" scale9grid="284,213,568,426"/>
+    <image id="o1yeui" name="logo.png" path="/" exported="true"/>
+    <image id="o1yeuj" name="dl_ksks.png" path="/login/" exported="true"/>
+    <image id="tespul" name="ani_ksan_ksks.png" path="/login/" exported="true"/>
+    <image id="tespum" name="ani_ksan_di.png" path="/login/" exported="true"/>
+    <image id="tespun" name="LoginBtn1.png" path="/login/" exported="true"/>
+    <image id="tespuo" name="LoginBtn2.png" path="/login/" exported="true"/>
+    <image id="tespup" name="account.png" path="/login/" exported="true"/>
+    <image id="tespus" name="account2.png" path="/login/" exported="true"/>
+    <image id="nu3xuv" name="jzy_btmb.png" path="/Common/" exported="true" scale="9grid" scale9grid="143,6,184,27"/>
+    <image id="gyc2uw" name="jzy_di.png" path="/Common/" exported="true" scale="9grid" scale9grid="114,54,228,108" gridTile="16"/>
+    <image id="gyc2ux" name="nty_input_bg.png" path="/Common/" exported="true" scale="9grid" scale9grid="18,18,28,28" gridTile="16"/>
+    <image id="ie0iuy" name="dt_touxiangkuang.png" path="/Top/" exported="true"/>
+    <image id="ie0iuz" name="head_12.png" path="/Top/" exported="true" scale="9grid" scale9grid="0,0,110,109"/>
+    <image id="ie0iv0" name="dt_chouma.png" path="/Top/" exported="true" scale="9grid" scale9grid="0,0,43,44"/>
+    <image id="ie0iv1" name="dt_cmdikuang.png" path="/Top/" exported="true"/>
+    <image id="ie0iv2" name="dt_lanz.png" path="/Top/" exported="true" scale="9grid" scale9grid="0,0,106,96"/>
+    <image id="ie0iv3" name="dt_fh.png" path="/Top/" exported="true"/>
+    <image id="ie0iv4" name="dt_sz.png" path="/Top/" exported="true"/>
+    <image id="ie0iv5" name="dt_xinxiang.png" path="/Bottom/" exported="true"/>
+    <image id="ie0iv6" name="dt_yh.png" path="/Bottom/" exported="true"/>
+    <image id="ie0iv7" name="dt_yinghang.png" path="/Bottom/" exported="true"/>
+    <image id="ie0iv8" name="dt_beibao.png" path="/Bottom/" exported="true"/>
+    <component id="t2i0va" name="ShaiziUi.xml" path="/Animation/" exported="true"/>
+    <image id="t2i0vb" name="girl_3_mao1.png" path="/Animation/Img/"/>
+    <image id="t2i0vc" name="girl_3_mao2.png" path="/Animation/Img/"/>
+    <image id="t2i0vd" name="girl_3_shen.png" path="/Animation/Img/"/>
+    <image id="t2i0ve" name="girl_3_shou.png" path="/Animation/Img/"/>
+    <image id="t2i0vf" name="girl_3_xiong.png" path="/Animation/Img/"/>
+    <image id="t2i0vg" name="girl_3_yan.png" path="/Animation/Img/"/>
+    <image id="t2i0vh" name="girl_3_zui.png" path="/Animation/Img/"/>
+    <image id="t2i0vi" name="girl_3_bi.png" path="/Animation/Img/"/>
+    <image id="t2i0vj" name="girl_3_fa.png" path="/Animation/Img/"/>
+    <image id="t2i0vk" name="girl_3_fg.png" path="/Animation/Img/"/>
+    <image id="t2i0vl" name="girl_3_g.png" path="/Animation/Img/"/>
+    <image id="t2i0vm" name="girl_3_jiao.png" path="/Animation/Img/"/>
+    <component id="t2i0vn" name="Girl.xml" path="/Animation/" exported="true"/>
+    <image id="t2i0vo" name="ty_guangbi.png" path="/Common/" exported="true"/>
+    <image id="t2i0vp" name="ty_baiotikuang.png" path="/Window/" exported="true"/>
+    <image id="t2i0vq" name="ty_baiotikuang2.png" path="/Window/" exported="true"/>
+    <image id="t2i0vr" name="ty_dakuangdi.png" path="/Window/" exported="true"/>
+    <image id="t2i0vs" name="ty_dakuangzj.png" path="/Window/" exported="true"/>
+    <image id="t2i0vt" name="yj_pmd.png" path="/Mail/" exported="true" scale="9grid" scale9grid="24,0,27,36"/>
+    <image id="t2i0vu" name="dtgrxx_mengb.png" path="/Window/" exported="true"/>
+    <image id="t2i0vv" name="yj_yidu.png" path="/Mail/" exported="true"/>
+    <image id="t2i0vw" name="wuxiaoxi.png" path="/Mail/" exported="true"/>
+    <image id="t2i0vx" name="yj_yck.png" path="/Mail/" exported="true"/>
+    <image id="t2i0vy" name="yj_yj.png" path="/Mail/" exported="true"/>
+    <image id="t2i0vz" name="yj_weidu.png" path="/Mail/" exported="true"/>
+    <image id="t2i0w0" name="yj_kk.png" path="/Mail/" exported="true" scale="9grid" scale9grid="13,13,16,70" gridTile="1"/>
+    <image id="t2i0w1" name="bb_zsan.png" path="/Mail/" exported="true"/>
+    <image id="t2i0w2" name="qipao.png" path="/Lobby/" exported="true"/>
+    <image id="t2i0w4" name="dt_meinv.png" path="/Lobby/" exported="true"/>
+    <image id="t2i0w5" name="dt_shanggongnengdi.png" path="/Top/" exported="true"/>
+    <image id="t2i0w6" name="dt_ksks.png" path="/Lobby/" exported="true"/>
+    <image id="t2i0w7" name="ty_dalv.png" path="/Lobby/" exported="true"/>
+    <image id="t2i0w8" name="ty_dazi.png" path="/Lobby/" exported="true"/>
+    <image id="b8ibw9" name="ani_bsc_zig1.png" path="/Animation/paijiu/"/>
+    <image id="b8ibwa" name="ani_bsc_zig2.png" path="/Animation/paijiu/"/>
+    <image id="b8ibwb" name="ani_bsc_bei.png" path="/Animation/paijiu/"/>
+    <image id="b8ibwc" name="ani_bsc_beig.png" path="/Animation/paijiu/"/>
+    <image id="b8ibwd" name="ani_bsc_chouma2.png" path="/Animation/paijiu/"/>
+    <image id="b8ibwe" name="ani_bsc_chouma3.png" path="/Animation/paijiu/"/>
+    <image id="b8ibwf" name="ani_bsc_kuang.png" path="/Animation/paijiu/"/>
+    <image id="b8ibwg" name="ani_bsc_pai.png" path="/Animation/paijiu/"/>
+    <image id="b8ibwh" name="ani_bsc_pd1.png" path="/Animation/paijiu/"/>
+    <image id="b8ibwi" name="ani_bsc_pd2.png" path="/Animation/paijiu/"/>
+    <image id="b8ibwj" name="ani_bsc_zi.png" path="/Animation/paijiu/"/>
+    <component id="b8ibwk" name="PaijiuAni.xml" path="/Animation/paijiu/" exported="true"/>
+    <image id="b8ibwm" name="splash.png" path="/Animation/paijiu/font/"/>
+    <image id="b8ibwn" name="dhsc_bt.png" path="/Animation/paijiu/font/"/>
+    <sound id="i2d3wp" name="buttonclick.wav" path="/music/" exported="true"/>
+    <image id="vj4zwq" name="sc_zuo.jpg" path="/CreateRoom/" exported="true"/>
+    <image id="vj4zwr" name="ani_xsc_kuang.png" path="/CreateRoom/" exported="true" scale="9grid" scale9grid="55,46,123,92"/>
+    <image id="vj4zws" name="mizidi.png" path="/Common/" exported="true"/>
+    <image id="vj4zwt" name="bb_zs.png" path="/Common/" exported="true"/>
+    <image id="vj4zwu" name="dt_lvz.png" path="/CreateRoom/" exported="true"/>
+    <image id="vj4zwv" name="dt_ziz.png" path="/CreateRoom/" exported="true"/>
+    <image id="vj4zww" name="dt_liquang.png" path="/CreateRoom/" exported="true"/>
+    <image id="vj4zwx" name="sz_nk.png" path="/CreateRoom/" exported="true"/>
+    <image id="vj4zwy" name="sz_gou.png" path="/CreateRoom/" exported="true"/>
+    <image id="cbztx1" name="Select_Btn_None.png" path="/Common/" exported="true"/>
+    <image id="cbztx2" name="Select_Btn_Selected.png" path="/Common/" exported="true"/>
+    <image id="cbztx3" name="Radio_Btn_None.png" path="/Common/" exported="true" scale9grid="0,0,47,45"/>
+    <image id="cbztx4" name="Radio_Btn_Selected.png" path="/Common/" exported="true"/>
+    <image id="cbztx5" name="Room_Card1.png" path="/Common/" exported="true"/>
+    <image id="cbztx6" name="fangk (2).png" path="/Common/" exported="true"/>
+    <image id="cbztx8" name="btn_di.png" path="/Common/" exported="true"/>
+    <image id="cbztx9" name="ui_shop_table.png" path="/Common/" exported="true"/>
+    <image id="cbztxa" name="btn_stop2.png" path="/Common/" exported="true"/>
+    <component id="cbztxb" name="Component1.xml" path="/Common/"/>
+    <image id="cbztxg" name="n2.png" path="/Common/" exported="true"/>
+    <image id="cbztxi" name="btn_yellow (5).png" path="/Common/" exported="true"/>
+    <movieclip id="rg77xj" name="Shaizi.jta" path="/Animation/"/>
+    <movieclip id="rg77xk" name="Shaizi2.jta" path="/Animation/" smoothing="false"/>
+    <movieclip id="rg77xl" name="Shaizi3.jta" path="/Animation/" atlas="alone_npot"/>
+    <movieclip id="rg77xm" name="shaizi_results.jta" path="/Animation/"/>
+    <movieclip id="rg77xn" name="zhuanpai01.jta" path="/Animation/"/>
+    <movieclip id="rg77xo" name="head_wait_ani.jta" path="/Animation/"/>
+    <movieclip id="rg77xp" name="zi_total2.jta" path="/Animation/"/>
+    <movieclip id="rg77xq" name="loadingxiaoguo.jta" path="/Animation/"/>
+    <movieclip id="rg77xs" name="wenli_total2.jta" path="/Animation/"/>
+    <movieclip id="rg77xt" name="gdmj021.jta" path="/Animation/"/>
+    <image id="rg77xu" name="sichuangmajianglizi007.png" path="/Animation/"/>
+    <movieclip id="rg77xv" name="head_wait_ani(1).jta" path="/Animation/"/>
+    <movieclip id="rg77xw" name="head_wait_ani(2).jta" path="/Animation/"/>
+    <image id="rg77xx" name="guang.png" path="/Animation/"/>
+    <movieclip id="rg77xy" name="guang.jta" path="/Animation/"/>
+    <movieclip id="rg77xz" name="gdmj021(1).jta" path="/Animation/"/>
+    <image id="rg77y0" name="anniu_huangxiao.png" path="/CreateRoom/" exported="true"/>
+    <image id="rg77y1" name="anniu_lanxiao.png" path="/CreateRoom/" exported="true"/>
+    <image id="rg77y2" name="anniu_lvxiao.png" path="/CreateRoom/" exported="true"/>
+    <image id="lfw0y3" name="back.png" path="/"/>
+    <image id="g3kpy4" name="anniu_huangxiao.png" path="/Lobby/" exported="true"/>
+    <image id="g3kpy5" name="ty_dalang.png" path="/Lobby/" exported="true"/>
+    <movieclip id="p1ffy6" name="ShaiziAni.jta" path="/Animation/"/>
+    <component id="p1ffy7" name="Component2.xml" path="/Animation/"/>
+    <movieclip id="p1ffye" name="ShaziAnimation.jta" path="/Animation/"/>
+    <movieclip id="qxosyf" name="ShaiziAnimation2.jta" path="/Animation/" exported="true"/>
+    <image id="qxosyg" name="dice_2.png" path="/Animation/" exported="true"/>
+    <image id="qxosyh" name="dice_3.png" path="/Animation/" exported="true"/>
+    <image id="qxosyi" name="dice_4.png" path="/Animation/" exported="true"/>
+    <image id="qxosyj" name="dice_5.png" path="/Animation/" exported="true"/>
+    <image id="qxosyk" name="dice_6.png" path="/Animation/" exported="true"/>
+    <image id="qxosyl" name="dice_1.png" path="/Animation/" exported="true"/>
+    <sound id="ssnbym" name="click.mp3" path="/music/" exported="true"/>
+    <sound id="cdm8yn" name="btn_ta.mp3" path="/music/" exported="true"/>
+    <sound id="cdm8yo" name="btn_choose.mp3" path="/music/" exported="true"/>
+    <sound id="cdm8yp" name="btn_close.mp3" path="/music/" exported="true"/>
+    <sound id="cdm8yq" name="win_btn_ka.mp3" path="/music/" exported="true"/>
+  </resources>
+  <publish name="ASource" genCode="true"/>
+</packageDescription>

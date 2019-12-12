@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="94,25">
+  <displayList>
+    <image id="n1_dagi" name="n1" src="lfw022" xy="0,0"/>
+    <text id="n2_dagi" name="context" xy="0,0" size="94,25" fontSize="14" color="#00ff00" align="center" vAlign="middle" autoSize="shrink" text="250"/>
+  </displayList>
+</component>

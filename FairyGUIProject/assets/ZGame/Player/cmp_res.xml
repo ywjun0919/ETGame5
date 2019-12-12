@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="197,50">
+  <displayList>
+    <loader id="n13_dagi" name="res_icon" xy="0,0" size="50,50" url="ui://dh0i1y4vlfw02d"/>
+    <text id="n17_dagi" name="res_text" xy="77,10" size="120,32" fontSize="24" color="#0000cc" autoSize="none" text="-1000"/>
+  </displayList>
+</component>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640" adaptationTest="FitHeightAndSetCenter">
+  <displayList>
+    <image id="n0_lfw0" name="bg" src="lfw021" xy="0,0" size="1136,640"/>
+    <image id="n1_lfw0" name="n1" src="lfw02u" xy="0,0" size="1136,640"/>
+    <component id="n4_lfw0" name="n4" src="dagi3k" xy="657,743"/>
+    <image id="n6_lfw0" name="n6" src="lfw020" xy="887,-101"/>
+    <image id="n7_lfw0" name="n7" src="lfw023" xy="194,-124" group="n10_lfw0" fillMethod="radial360"/>
+    <image id="n9_lfw0" name="n9" src="lfw024" xy="194,-124" group="n10_lfw0" fillMethod="radial360" fillAmount="1"/>
+    <group id="n10_lfw0" name="daojishi" xy="194,-124" size="75,75" advanced="true" collapsed="true"/>
+    <image id="n11_lfw0" name="n11" src="lfw025" xy="47,19"/>
+    <image id="n13_lfw0" name="n13" src="lfw028" xy="8,562"/>
+    <image id="n15_lfw0" name="n15" src="lfw02o" xy="-32,-340"/>
+    <image id="n16_lfw0" name="n16" src="lfw02n" xy="-36,-134"/>
+    <component id="n17_lfw0" name="n17" src="dagi3j" xy="480,742"/>
+    <image id="n19_lfw0" name="n19" src="lfw02b" xy="991,-96"/>
+    <image id="n20_lfw0" name="n20" src="lfw02c" xy="1100,-102"/>
+    <image id="n23_lfw0" name="n23" src="lfw01z" xy="1228,-99"/>
+    <component id="n25_lfw0" name="n25" src="dagi3m" xy="997,737"/>
+    <component id="n26_lfw0" name="n26" src="dagi3h" xy="74,690"/>
+    <component id="n27_lfw0" name="n27" src="dagi3i" xy="312,742"/>
+    <image id="n31_lfw0" name="zhuangbiao_4" src="lfw02r" xy="-277,98"/>
+    <image id="n33_lfw0" name="zhuangbiao_2" src="lfw02r" xy="1182,46"/>
+    <image id="n32_lfw0" name="zhuangbiao_3" src="lfw02r" xy="-329,450"/>
+    <image id="n34_lfw0" name="zhuangbiao_1" src="lfw02r" xy="442,33"/>
+    <image id="n41_lfw0" name="n41" src="lfw02a" xy="590,871"/>
+    <image id="n42_lfw0" name="n42" src="lfw01y" xy="600,875" size="111,34"/>
+    <image id="n48_lfw0" name="n48" src="lfw0z" xy="774,-304" size="27,55" group="n80_lfw0"/>
+    <image id="n49_lfw0" name="n49" src="lfw0z" xy="739,-329" size="27,55" group="n80_lfw0"/>
+    <image id="n12_lfw0" name="Tip_youxikaishi" src="lfw027" xy="-372,-807" size="405,178" group="n80_lfw0"/>
+    <image id="n50_lfw0" name="n50" src="lfw0z" xy="769,-329" size="27,55" group="n80_lfw0"/>
+    <image id="n51_lfw0" name="n51" src="lfw0z" xy="829,-275" size="27,55" group="n80_lfw0"/>
+    <image id="n52_lfw0" name="n52" src="lfw0z" xy="859,-275" size="27,55" group="n80_lfw0"/>
+    <image id="n53_lfw0" name="n53" src="lfw0z" xy="949,-275" size="27,55" group="n80_lfw0"/>
+    <image id="n54_lfw0" name="n54" src="lfw0z" xy="889,-275" size="27,55" group="n80_lfw0"/>
+    <image id="n55_lfw0" name="n55" src="lfw0z" xy="919,-329" size="27,55" group="n80_lfw0"/>
+    <image id="n56_lfw0" name="n56" src="lfw0z" xy="829,-329" size="27,55" group="n80_lfw0"/>
+    <image id="n57_lfw0" name="n57" src="lfw0z" xy="799,-275" size="27,55" group="n80_lfw0"/>
+    <image id="n58_lfw0" name="n58" src="lfw0z" xy="949,-329" size="27,55" group="n80_lfw0"/>
+    <image id="n59_lfw0" name="n59" src="lfw0z" xy="799,-329" size="27,55" group="n80_lfw0"/>
+    <image id="n60_lfw0" name="n60" src="lfw0z" xy="889,-329" size="27,55" group="n80_lfw0"/>
+    <image id="n61_lfw0" name="n61" src="lfw0z" xy="739,-275" size="27,55" group="n80_lfw0"/>
+    <image id="n62_lfw0" name="n62" src="lfw0z" xy="769,-275" size="27,55" group="n80_lfw0"/>
+    <image id="n63_lfw0" name="n63" src="lfw0z" xy="949,-221" size="27,55" group="n80_lfw0"/>
+    <image id="n64_lfw0" name="n64" src="lfw0z" xy="889,-221" size="27,55" group="n80_lfw0"/>
+    <image id="n65_lfw0" name="n65" src="lfw0z" xy="769,-221" size="27,55" group="n80_lfw0"/>
+    <image id="n66_lfw0" name="n66" src="lfw0z" xy="859,-221" size="27,55" group="n80_lfw0"/>
+    <image id="n67_lfw0" name="n67" src="lfw0z" xy="829,-221" size="27,55" group="n80_lfw0"/>
+    <image id="n68_lfw0" name="n68" src="lfw0z" xy="739,-221" size="27,55" group="n80_lfw0"/>
+    <image id="n69_lfw0" name="n69" src="lfw0z" xy="919,-221" size="27,55" group="n80_lfw0"/>
+    <image id="n70_lfw0" name="n70" src="lfw0z" xy="919,-275" size="27,55" group="n80_lfw0"/>
+    <image id="n71_lfw0" name="n71" src="lfw0z" xy="799,-221" size="27,55" group="n80_lfw0"/>
+    <image id="n72_lfw0" name="n72" src="lfw0z" xy="859,-167" size="27,55" group="n80_lfw0"/>
+    <image id="n73_lfw0" name="n73" src="lfw0z" xy="919,-167" size="27,55" group="n80_lfw0"/>
+    <image id="n74_lfw0" name="n74" src="lfw0z" xy="889,-167" size="27,55" group="n80_lfw0"/>
+    <image id="n75_lfw0" name="n75" src="lfw0z" xy="829,-167" size="27,55" group="n80_lfw0"/>
+    <image id="n76_lfw0" name="n76" src="lfw0z" xy="769,-167" size="27,55" group="n80_lfw0"/>
+    <image id="n77_lfw0" name="n77" src="lfw0z" xy="799,-167" size="27,55" group="n80_lfw0"/>
+    <image id="n78_lfw0" name="n78" src="lfw0z" xy="739,-167" size="27,55" group="n80_lfw0"/>
+    <image id="n79_lfw0" name="n79" src="lfw0z" xy="859,-329" size="27,55" group="n80_lfw0"/>
+    <image id="n81_lfw0" name="n81" src="lfw017" xy="441,-301" size="28,86" group="n80_lfw0"/>
+    <image id="n82_lfw0" name="n82" src="lfw017" xy="486,-300" size="27,86" group="n80_lfw0"/>
+    <image id="n83_lfw0" name="n83" src="lfw017" xy="554,-323" pivot="0.5,0.5" size="27,86" group="n80_lfw0" rotation="90"/>
+    <image id="n84_lfw0" name="n84" src="lfw017" xy="554,-276" pivot="0.5,0.5" size="27,86" group="n80_lfw0" rotation="90"/>
+    <image id="n86_lfw0" name="n86" src="lfw02z" xy="569,-451" size="104,112" group="n80_lfw0"/>
+    <image id="n88_lfw0" name="n88" src="lfw030" xy="556,-775" size="491,143" group="n80_lfw0"/>
+    <image id="n89_lfw0" name="n89" src="lfw031" xy="590,-799" size="491,231" group="n80_lfw0"/>
+    <image id="n90_lfw0" name="n90" src="lfw032" xy="760,-436" size="37,41" group="n80_lfw0"/>
+    <component id="n91_lfw0" name="n91" src="dagi3o" xy="744,-450" group="n80_lfw0"/>
+    <group id="n80_lfw0" name="n80" xy="-372,-806" size="1453,695"/>
+    <richtext id="n87_lfw0" name="n87" xy="1287,421" size="45,44" fontSize="24" color="#ffffff" autoSize="none" text="锅"/>
+    <image id="n92_lfw0" name="n92" src="lfw034" xy="257,853" size="94,35"/>
+    <image id="n93_lfw0" name="n93" src="lfw034" xy="158,859" size="94,35" color="#00cc00"/>
+    <image id="n94_lfw0" name="n94" src="lfw034" xy="364,852" size="94,35" color="#ff0000"/>
+    <text id="n95_lfw0" name="n95" xy="75,863" size="66,32" fontSize="24" color="#ffff00" text="1：20"/>
+    <component id="n100_lfw0" name="n100" src="lfw03d" xy="475,671">
+      <Slider value="50" max="100"/>
+    </component>
+    <text id="n101_lfw0" name="n101" xy="63,823" size="80,32" fontSize="24" color="#ffffff" autoSize="none" text="第一道"/>
+    <component id="n102_lfw0" name="n102" src="dagi3l" xy="834,738"/>
+    <image id="n104_lfw0" name="n104" src="lfw02p" xy="403,-280" size="506,150"/>
+    <image id="n105_lfw0" name="n105" src="lfw02v" xy="140,-283" size="522,150"/>
+    <image id="n106_lfw0" name="n106" src="lfw02t" xy="84,168"/>
+    <image id="n107_lfw0" name="n107" src="lfw02l" xy="-598,-316"/>
+    <image id="n108_lfw0" name="n108" src="lfw02a" xy="608,927"/>
+    <image id="n109_lfw0" name="n109" src="lfw022" xy="407,893"/>
+    <image id="n110_lfw0" name="n110" src="lfw01y" xy="838,847"/>
+    <image id="n18_lfw0" name="n18" src="lfw02d" xy="-26,-232"/>
+    <component id="n111_dagi" name="n111" src="dagi3p" xy="0,-2"/>
+  </displayList>
+  <relation target="" sidePair="rightext-right,bottomext-bottom"/>
+  <transition name="t0" autoPlay="true" autoPlayDelay="10.000">
+    <item time="0" type="Rotation" target="n91_lfw0" tween="true" startValue="0" endValue="360" duration="31"/>
+    <item time="0" type="XY" target="n50_lfw0" tween="true" startValue="475,215.2" endValue="191,250.6" duration="30"/>
+    <item time="0" type="XY" target="n49_lfw0" tween="true" startValue="445,215.2" endValue="147.8,246.4" duration="24"/>
+    <item time="0" type="XY" target="n60_lfw0" tween="true" startValue="595,215.2" endValue="537,76.2" duration="30"/>
+    <item time="0" type="XY" target="n56_lfw0" tween="true" startValue="535,215.2" endValue="293.2,255.2" duration="39"/>
+    <item time="0" type="XY" target="n59_lfw0" tween="true" startValue="505,215.2" endValue="230.45,251.3" duration="35"/>
+    <item time="0" type="XY" target="n79_lfw0" tween="true" startValue="565,215.2" endValue="497.45,74.25" duration="24"/>
+    <item time="0" type="XY" target="n55_lfw0" tween="true" startValue="625,215.2" endValue="573,75.4" duration="35"/>
+    <item time="0" type="XY" target="n58_lfw0" tween="true" startValue="655,215.2" endValue="612,77.4" duration="39"/>
+  </transition>
+</component>

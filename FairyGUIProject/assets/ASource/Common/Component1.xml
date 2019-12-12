@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="400,400">
+  <displayList>
+    <image id="n2_cbzt" name="n2" src="cbztx8" xy="49,128" size="199,32"/>
+    <image id="n1_cbzt" name="n1" src="cbztxa" xy="243,120" size="47,32" rotation="90" flip="vt">
+      <relation target="n2_cbzt" sidePair="left-left,top-top"/>
+    </image>
+  </displayList>
+</component>

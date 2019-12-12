@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ckywsbra">
+  <resources>
+    <image id="haek0" name="SquareEight.png" path="/" exported="true"/>
+    <image id="haek1" name="SpadeTwo.png" path="/" exported="true"/>
+    <image id="haek2" name="SpadeThree.png" path="/" exported="true"/>
+    <image id="haek3" name="SpadeTen.png" path="/" exported="true"/>
+    <image id="haek4" name="SpadeSix.png" path="/" exported="true"/>
+    <image id="haek5" name="SpadeSeven.png" path="/" exported="true"/>
+    <image id="haek6" name="SpadeQueen.png" path="/" exported="true"/>
+    <image id="haek7" name="SpadeOne.png" path="/" exported="true"/>
+    <image id="haek8" name="SpadeNine.png" path="/" exported="true"/>
+    <image id="haek9" name="SpadeKing.png" path="/" exported="true"/>
+    <image id="haeka" name="SpadeJack.png" path="/" exported="true"/>
+    <image id="haekb" name="SpadeFour.png" path="/" exported="true"/>
+    <image id="haekc" name="SpadeFive.png" path="/" exported="true"/>
+    <image id="haekd" name="SpadeEight.png" path="/" exported="true"/>
+    <image id="haeke" name="SJoker.png" path="/" exported="true"/>
+    <image id="haekf" name="LJoker.png" path="/" exported="true"/>
+    <image id="haekg" name="HeartTwo.png" path="/" exported="true"/>
+    <image id="haekh" name="HeartThree.png" path="/" exported="true"/>
+    <image id="haeki" name="HeartTen.png" path="/" exported="true"/>
+    <image id="haekj" name="HeartSix.png" path="/" exported="true"/>
+    <image id="haekk" name="HeartSeven.png" path="/" exported="true"/>
+    <image id="haekl" name="HeartQueen.png" path="/" exported="true"/>
+    <image id="haekm" name="HeartOne.png" path="/" exported="true"/>
+    <image id="haekn" name="HeartNine.png" path="/" exported="true"/>
+    <image id="haeko" name="HeartKing.png" path="/" exported="true"/>
+    <image id="haekp" name="HeartJack.png" path="/" exported="true"/>
+    <image id="haekq" name="HeartFour.png" path="/" exported="true"/>
+    <image id="haekr" name="HeartFive.png" path="/" exported="true"/>
+    <image id="haeks" name="HeartEight.png" path="/" exported="true"/>
+    <image id="haekt" name="ClubTwo.png" path="/" exported="true"/>
+    <image id="haeku" name="ClubThree.png" path="/" exported="true"/>
+    <image id="haekv" name="ClubTen.png" path="/" exported="true"/>
+    <image id="haekw" name="ClubSix.png" path="/" exported="true"/>
+    <image id="haekx" name="ClubSeven.png" path="/" exported="true"/>
+    <image id="haeky" name="ClubQueen.png" path="/" exported="true"/>
+    <image id="haekz" name="ClubOne.png" path="/" exported="true"/>
+    <image id="haek10" name="ClubNine.png" path="/" exported="true"/>
+    <image id="haek11" name="ClubKing.png" path="/" exported="true"/>
+    <image id="haek12" name="ClubJack.png" path="/" exported="true"/>
+    <image id="haek13" name="ClubFour.png" path="/" exported="true"/>
+    <image id="haek14" name="ClubFive.png" path="/" exported="true"/>
+    <image id="haek15" name="ClubEight.png" path="/" exported="true"/>
+    <image id="haek16" name="CardBack.png" path="/" exported="true"/>
+    <image id="haek17" name="SquareTwo.png" path="/" exported="true"/>
+    <image id="haek18" name="SquareThree.png" path="/" exported="true"/>
+    <image id="haek19" name="SquareTen.png" path="/" exported="true"/>
+    <image id="haek1a" name="SquareSix.png" path="/" exported="true"/>
+    <image id="haek1b" name="SquareSeven.png" path="/" exported="true"/>
+    <image id="haek1c" name="SquareQueen.png" path="/" exported="true"/>
+    <image id="haek1d" name="SquareOne.png" path="/" exported="true"/>
+    <image id="haek1e" name="SquareNine.png" path="/" exported="true"/>
+    <image id="haek1f" name="SquareKing.png" path="/" exported="true"/>
+    <image id="haek1g" name="SquareJack.png" path="/" exported="true"/>
+    <image id="haek1h" name="SquareFour.png" path="/" exported="true"/>
+    <image id="haek1i" name="SquareFive.png" path="/" exported="true"/>
+    <component id="haek1j" name="Cards.xml" path="/" exported="true"/>
+    <component id="haek1m" name="CardRoleItem.xml" path="/" exported="true"/>
+    <component id="haek1n" name="CardRightItem.xml" path="/" exported="true"/>
+    <component id="haek1o" name="CardLeftItem.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="Poker" genCode="true"/>
+</packageDescription>

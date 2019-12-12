@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="262,87" extention="Button" bgColor="#ff0000">
+  <displayList>
+    <image id="n2_eipc" name="n2" src="eipcd" xy="0,0" size="262,87"/>
+    <text id="n1_eipc" name="input_text" xy="2,3" size="460,16" input="true" fontSize="10" color="#ffffff" vAlign="middle" autoSize="shrink" text="111111111111111111111111111111111111111111111111111111111111111111111111111111111111111玩桑"/>
+  </displayList>
+  <Button/>
+</component>

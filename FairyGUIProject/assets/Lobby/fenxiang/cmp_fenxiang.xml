@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="755,150">
+  <displayList>
+    <graph id="n30_g3kp" name="n30" xy="5,5" size="745,140" type="rect" lineSize="0"/>
+    <image id="n23_g3kp" name="n23" src="g3kp1j" pkg="jfcixih7" xy="0,0" size="755,150"/>
+    <component id="n25_g3kp" name="btn_pengyouquan" src="g3kp2j" xy="113,15" group="n29_g3kp">
+      <relation target="n23_g3kp" sidePair="left-left,top-top"/>
+    </component>
+    <component id="n26_g3kp" name="btn_pengyouquan2" src="g3kp2k" xy="249,15" group="n29_g3kp">
+      <relation target="n25_g3kp" sidePair="left-left,top-top"/>
+    </component>
+    <component id="n27_g3kp" name="btn_shoucang" src="g3kp2l" xy="385,15" group="n29_g3kp">
+      <relation target="n26_g3kp" sidePair="left-left,top-top"/>
+    </component>
+    <component id="n28_g3kp" name="btn_weixin_liaotian" src="g3kp2m" xy="521,15" group="n29_g3kp">
+      <relation target="n27_g3kp" sidePair="left-left,top-top"/>
+    </component>
+    <group id="n29_g3kp" name="n29" xy="113,15" size="527,119"/>
+  </displayList>
+</component>

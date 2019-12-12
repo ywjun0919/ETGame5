@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640">
+  <controller name="c1" pages="0,,1," selected="0"/>
+  <displayList>
+    <component id="n1_jqmq" name="frame" src="jqmqz" fileName="DaiCreateRoom/frame.xml" xy="0,0"/>
+    <text id="n4_jqmq" name="n4" xy="445,22" size="259,51" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="代开房间"/>
+    <component id="n5_jqmq" name="daiKaiButton" src="rg77w" fileName="paijiu/GreenBtn.xml" xy="487,533">
+      <gearDisplay controller="c1" pages="0"/>
+      <Button sound="ui://jra4krmqcdm8yq"/>
+    </component>
+    <component id="n12_jqmq" name="btn_shujuleixing" src="jqmq17" fileName="DaiCreateRoom/Select_RecorderType.xml" xy="54,42">
+      <relation target="" sidePair="left-left,top-top"/>
+      <Button checked="true" sound="ui://jra4krmqcdm8yo" controller="c1" page="0"/>
+    </component>
+    <text id="n13_jqmq" name="n13" xy="360,540" size="415,39" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="代开记录最多保留最近100条">
+      <gearDisplay controller="c1" pages="1"/>
+    </text>
+    <list id="n14_ohhm" name="dataList" xy="31,154" size="1073,370" overflow="scroll">
+      <relation target="n1_jqmq" sidePair="left-left,top-top"/>
+    </list>
+    <text id="n17_ohhm" name="n17" xy="73,121" size="86,32" fontSize="24" color="#ffffff" autoSize="none" text="房间号"/>
+    <text id="n18_ohhm" name="n18" xy="242,120" size="107,32" fontSize="24" color="#ffffff" autoSize="none" text="创建时间"/>
+    <text id="n19_ohhm" name="n19" xy="596,116" size="107,32" fontSize="24" color="#ffffff" autoSize="none" text="玩家"/>
+    <text id="n20_ohhm" name="n20" xy="986,114" size="107,32" fontSize="24" color="#ffffff" autoSize="none" text="操作"/>
+  </displayList>
+</component>

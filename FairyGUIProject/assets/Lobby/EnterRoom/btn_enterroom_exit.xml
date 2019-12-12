@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="46,46" extention="Button">
+  <displayList>
+    <image id="n16_g3kp" name="n16" src="g3kp20" xy="0,0"/>
+  </displayList>
+  <Button downEffect="dark" downEffectValue="0.80"/>
+</component>

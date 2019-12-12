@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="l2zki4us" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="t2i05" name="MailWindow.xml" path="/" exported="true"/>
+    <component id="t2i08" name="MailItem.xml" path="/" exported="true"/>
+    <component id="t2i09" name="MailContent.xml" path="/" exported="true"/>
+    <component id="t2i0a" name="Content.xml" path="/"/>
+    <component id="t2i0b" name="ReturnBtn.xml" path="/"/>
+    <component id="x2fdd" name="MailContentFrame.xml" path="/"/>
+  </resources>
+  <publish name="Mail"/>
+</packageDescription>

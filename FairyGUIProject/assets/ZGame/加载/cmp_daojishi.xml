@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="75,76">
+  <displayList>
+    <image id="n4_dagi" name="n4" src="lfw023" xy="0,1">
+      <relation target="" sidePair="left-left,top-top"/>
+    </image>
+    <image id="n5_dagi" name="time_quan" src="lfw024" xy="0,0" fillMethod="radial360">
+      <relation target="n4_dagi" sidePair="left-left,top-top"/>
+    </image>
+    <text id="n6_dagi" name="time_text" xy="0,0" size="75,76" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="50">
+      <relation target="n5_dagi" sidePair="left-left,top-top"/>
+    </text>
+  </displayList>
+</component>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="188,87" extention="Button">
+  <displayList>
+    <loader id="n8_dagi" name="bg" xy="0,0" size="188,87" hideByEditor="true" url="ui://dh0i1y4vlfw02g"/>
+    <loader id="n4_lfw0" name="header" xy="3,3" size="79,80" url="ui://jra4krmqt2i0vu" align="center" vAlign="middle" fill="scaleFree" shrinkOnly="true">
+      <relation target="" sidePair="left-left,top-top"/>
+    </loader>
+    <image id="n2_lfw0" name="n2" src="lfw02f" fileName="zjm_touxiangkuang.png" xy="2,3" size="82,80" hideByEditor="true">
+      <relation target="" sidePair="left-left,top-top"/>
+    </image>
+    <text id="n5_lfw0" name="userName" xy="87,3" size="97,25" hideByEditor="true" fontSize="12" color="#ffff00" vAlign="middle" autoSize="shrink" text="张学友会唱歌">
+      <relation target="n2_lfw0" sidePair="left-left,top-top"/>
+    </text>
+    <text id="n6_lfw0" name="score" xy="88,36" size="96,25" hideByEditor="true" fontSize="18" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="1230">
+      <relation target="n5_lfw0" sidePair="bottom-bottom,top-top"/>
+    </text>
+    <loader id="n9_dagi" name="zhuang" xy="166,-13" size="35,35" hideByEditor="true" visible="false" url="ui://dh0i1y4vlfw02q"/>
+    <loader id="n13_dagi" name="status" xy="0,87" size="84,46" hideByEditor="true" url="ui://dh0i1y4vlfw02b">
+      <relation target="n8_dagi" sidePair="left-left,top-top"/>
+    </loader>
+    <image id="n14_dagi" name="lixian" src="dagi45" fileName="lixian.png" xy="3,4" size="82,79" hideByEditor="true"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="0.80"/>
+</component>

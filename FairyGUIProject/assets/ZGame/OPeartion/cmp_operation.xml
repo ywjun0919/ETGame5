@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640" opaque="false" designImage="ui://dh0i1y4vlfw02u">
+  <displayList>
+    <component id="n2_dagi" name="btn_zhunbei" src="dagi3i" fileName="anniu/btn_zhunbei.xml" xy="484,285">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n3_dagi" name="btn_buqiang" src="dagi3h" fileName="anniu/btn_buqiang.xml" xy="425,488" group="n8_dagi" hideByEditor="true">
+      <relation target="" sidePair="right-center,top-top"/>
+    </component>
+    <component id="n4_dagi" name="btn_qiangzhuang" src="dagi3m" fileName="anniu/btn_qiangzhuang.xml" xy="586,487" group="n8_dagi" hideByEditor="true">
+      <relation target="" sidePair="left-center,top-bottom"/>
+    </component>
+    <group id="n8_dagi" name="gp_qiangzhuang" xy="425,487" size="301,55" advanced="true" collapsed="true"/>
+    <component id="n6_dagi" name="btn_xiazhuwancheng" src="dagi3l" fileName="anniu/btn_xiazhuwancheng.xml" xy="711,478" group="n13_dagi">
+      <relation target="" sidePair="right-right,top-bottom"/>
+    </component>
+    <component id="n10_dagi" name="op_dao1" src="jfy24r" fileName="anniu/cmp_xiazhu.xml" xy="370,348" group="n17_dagi"/>
+    <text id="n14_dagi" name="n14" xy="275,349" size="82,32" group="n17_dagi" fontSize="24" color="#ffffff" autoSize="none" text="第一道"/>
+    <group id="n17_dagi" name="dao1" xy="275,348" size="466,33" group="n13_dagi" advanced="true" collapsed="true"/>
+    <component id="n11_dagi" name="op_dao2" src="jfy24r" fileName="anniu/cmp_xiazhu.xml" xy="370,388" size="371,28" group="n18_dagi">
+      <relation target="" sidePair="center-center,top-bottom"/>
+    </component>
+    <text id="n15_dagi" name="n15" xy="275,387" size="82,32" group="n18_dagi" fontSize="24" color="#ffffff" autoSize="none" text="第二道">
+      <relation target="n11_dagi" sidePair="right-left,top-top"/>
+    </text>
+    <group id="n18_dagi" name="dao2" xy="275,387" size="466,32" group="n13_dagi" advanced="true" collapsed="true"/>
+    <component id="n12_dagi" name="op_dao3" src="jfy24r" fileName="anniu/cmp_xiazhu.xml" xy="370,428" size="371,28" group="n19_dagi">
+      <relation target="" sidePair="center-center,top-bottom"/>
+    </component>
+    <text id="n16_dagi" name="n16" xy="275,425" size="82,32" group="n19_dagi" fontSize="24" color="#ffffff" autoSize="none" text="第三道">
+      <relation target="n12_dagi" sidePair="right-left,top-top"/>
+    </text>
+    <group id="n19_dagi" name="dao3" xy="275,425" size="466,32" group="n13_dagi" advanced="true" collapsed="true"/>
+    <group id="n13_dagi" name="gp_xiazhu" xy="275,348" size="576,184" advanced="true" collapsed="true"/>
+    <component id="n5_dagi" name="btn_tishi" src="dagi3j" fileName="anniu/btn_tishi.xml" xy="910,462" group="n29_dagi">
+      <relation target="" sidePair="right-right,top-bottom"/>
+    </component>
+    <component id="n7_dagi" name="btn_zupaiwancheng" src="dagi3k" fileName="anniu/btn_zupaiwancheng.xml" xy="910,541" group="n29_dagi" grayed="true">
+      <relation target="" sidePair="right-right,top-bottom"/>
+    </component>
+    <component id="n25_dagi" name="btn_pai1" src="dagi3w" fileName="anniu/btn_paijiu.xml" xy="538,425" group="n30_dagi">
+      <Button icon="ui://dh0i1y4vo0oy4x"/>
+    </component>
+    <component id="n27_dagi" name="btn_pai2" src="dagi3w" fileName="anniu/btn_paijiu.xml" xy="626,425" group="n30_dagi">
+      <Button icon="ui://dh0i1y4vo0oy4z"/>
+    </component>
+    <component id="n26_dagi" name="btn_pai3" src="dagi3w" fileName="anniu/btn_paijiu.xml" xy="715,425" group="n30_dagi">
+      <Button icon="ui://dh0i1y4vlfw0q"/>
+    </component>
+    <component id="n28_dagi" name="btn_pai4" src="dagi3w" fileName="anniu/btn_paijiu.xml" xy="802,425" group="n30_dagi"/>
+    <group id="n30_dagi" name="gp_btnpais" xy="538,425" size="344,170" group="n29_dagi" advanced="true" collapsed="true"/>
+    <group id="n29_dagi" name="gp_zupai" xy="538,425" size="512,170" advanced="true" collapsed="true">
+      <relation target="" sidePair="right-right,top-bottom"/>
+    </group>
+    <image id="n31_7xaf" name="waitOther_img" src="7xaf5j" fileName="OPeartion/waitOther.png" xy="351,285"/>
+    <component id="n32_ohcb" name="btn_tianjiajiqi" src="ohcb5u" fileName="anniu/btn_tianjiajiqi.xml" xy="374,405"/>
+    <component id="n33_ohcb" name="btn_yaoqing" src="ohcb5t" fileName="anniu/btn_yaoqing.xml" xy="595,405"/>
+  </displayList>
+</component>

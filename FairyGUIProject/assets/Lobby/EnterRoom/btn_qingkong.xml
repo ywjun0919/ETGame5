@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="62,60" extention="Button">
+  <displayList>
+    <image id="n56_g3kp" name="n56" src="g3kp2c" fileName="EnterRoom/btn_hong.png" xy="0,0" size="62,60" color="#6633ff"/>
+    <text id="n57_g3kp" name="n57" xy="0,0" size="62,60" fontSize="24" color="#ff0000" align="center" vAlign="middle" autoSize="shrink" text="清空"/>
+  </displayList>
+  <Button sound="ui://jra4krmqssnbym" downEffect="scale" downEffectValue="0.80"/>
+</component>

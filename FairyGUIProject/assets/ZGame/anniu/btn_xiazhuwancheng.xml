@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="140,54" extention="Button" adaptationTest="FitSize">
+  <displayList>
+    <image id="n102_lfw0" name="n102" src="lfw02m" fileName="zjm_xiazhuanniu.png" xy="0,0">
+      <relation target="" sidePair="left-left,top-top"/>
+    </image>
+    <text id="n103_lfw0" name="n103" xy="19,11" size="101,31" fontSize="24" color="#ffffff" text="下注完成">
+      <relation target="n102_lfw0" sidePair="left-left,top-top"/>
+    </text>
+  </displayList>
+  <Button sound="ui://jra4krmqcdm8yq" downEffect="dark" downEffectValue="0.80"/>
+</component>

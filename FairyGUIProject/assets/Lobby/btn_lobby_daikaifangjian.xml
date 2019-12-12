@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="294,131" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n1" name="n1" src="g3kpy5" pkg="jra4krmq" xy="5,19" size="282,91"/>
+    <text id="n2" name="title" xy="0,0" size="294,131" fontSize="45" align="center" vAlign="middle" autoSize="none" singleLine="true" text="代开房间">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="0.80"/>
+</component>

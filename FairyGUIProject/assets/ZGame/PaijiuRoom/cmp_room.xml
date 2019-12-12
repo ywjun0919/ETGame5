@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640">
+  <displayList>
+    <image id="n1_dagi" name="n1" src="lfw021" fileName="zjm_ditang.jpg" xy="0,0" size="1136,640">
+      <relation target="" sidePair="leftext-left,rightext-right"/>
+      <relation target="" sidePair="topext-top,bottomext-bottom"/>
+    </image>
+    <image id="n2_dagi" name="n2" src="lfw02u" fileName="zjm_zhuozi.png" xy="0,0" size="1136,640">
+      <relation target="" sidePair="leftext-left,rightext-right"/>
+      <relation target="" sidePair="topext-top,bottomext-bottom"/>
+    </image>
+    <image id="n6_dagi" name="zhuang0" src="lfw02r" fileName="zjm_zhuangjiabiaozhi.png" xy="441,351" group="n10_dagi"/>
+    <image id="n7_dagi" name="zhuang1" src="lfw02r" fileName="zjm_zhuangjiabiaozhi.png" xy="753,182" group="n10_dagi">
+      <relation target="" sidePair=""/>
+    </image>
+    <image id="n8_dagi" name="zhuang2" src="lfw02r" fileName="zjm_zhuangjiabiaozhi.png" xy="441,36" group="n10_dagi"/>
+    <image id="n9_dagi" name="zhuang3" src="lfw02r" fileName="zjm_zhuangjiabiaozhi.png" xy="132,187" group="n10_dagi"/>
+    <group id="n10_dagi" name="zhuang" xy="132,36" size="873,567" locked="true" advanced="true" collapsed="true"/>
+    <component id="n4_dagi" name="cmp_timer" src="dagi40" fileName="加载/cmp_daojishi.xml" xy="339,295"/>
+    <image id="n11_dagi" name="img_guo_icon" src="lfw02z" fileName="guo.png" xy="244,52" size="100,100" group="n15_dagi"/>
+    <text id="n14_dagi" name="text_guo_score" xy="259,96" size="41,31" group="n15_dagi" fontSize="24" color="#ffffff" text="100"/>
+    <group id="n15_dagi" name="guo" xy="244,52" size="100,100" advanced="true" collapsed="true">
+      <relation target="" sidePair="left-left,top-top"/>
+    </group>
+    <component id="n12_dagi" name="cmp_pai" src="dagi3x" fileName="paijiu/cmp_paijiu.xml" xy="0,0"/>
+    <component id="n13_dagi" name="cmp_player" src="dagi3p" fileName="Player/PlayerResLayer.xml" xy="0,0"/>
+    <component id="n19_dagi" name="cmp_operation" src="dagi3t" fileName="OPeartion/cmp_operation.xml" xy="5,-4"/>
+    <image id="n20_dagi" name="img_start" src="lfw027" fileName="zjm_kaishiyouxi.png" xy="370,-166" hideByEditor="true"/>
+    <text id="n21_dagi" name="text_guize" xy="107,11" size="543,32" hideByEditor="true" font="仿宋" fontSize="12" color="#ffffff" vAlign="bottom" autoSize="shrink" text="局数：1 ，锅底100分， 无财神， 大牌九， 三道杠， 有炸弹， 无地九娘娘，有天九王"/>
+    <component id="n23_dagi" name="cmp_zhanji" src="dagi49" fileName="PaijiuRoom/cmp_result.xml" xy="186,-666" hideByEditor="true"/>
+    <component id="n25_czvf" name="cmp_shaizi" src="t2i0va" fileName="Animation/ShaiziUi.xml" pkg="jra4krmq" xy="0,0" hideByEditor="true"/>
+    <text id="n26_jda1" name="text_roomNum" xy="939,60" size="134,31" hideByEditor="true" fontSize="12" color="#ffffff" vAlign="middle" autoSize="shrink" bold="true" text="房间号：666444">
+      <relation target="" sidePair="leftext-left,top-top"/>
+    </text>
+    <component id="n22_dagi" name="btn_bangzhu" src="dagi47" fileName="anniu/btn_bangzhu.xml" xy="1049,72" hideByEditor="true">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+    <component id="n24_g3kp" name="btn_yaoqing_wechat" src="g3kp4q" fileName="PaijiuRoom/btn_yaoqing_wichat.xml" xy="934,19" hideByEditor="true"/>
+    <component id="n16_dagi" name="btn_exit" src="dagi41" fileName="anniu/btn_exit.xml" xy="23,20" hideByEditor="true"/>
+    <component id="n17_dagi" name="btn_chat" src="dagi42" fileName="anniu/btn_chat.xml" xy="23,558" hideByEditor="true"/>
+    <component id="n28_kwet" name="cmp_help" src="kwet5r" fileName="PaijiuRoom/cmp_help.xml" xy="0,0" hideByEditor="true"/>
+  </displayList>
+  <transition name="GameStart">
+    <item time="0" type="XY" target="n20_dagi" tween="true" startValue="336,-150" endValue="336,187" duration="25" ease="Elastic.Out"/>
+    <item time="25" type="XY" target="n20_dagi" tween="true" startValue="336,187" endValue="336,-150" duration="11"/>
+  </transition>
+  <transition name="GameEnd" options="3">
+    <item time="0" type="XY" target="n23_dagi" tween="true" startValue="199.2,-500.6" endValue="199,93" duration="25" ease="Bounce.Out"/>
+  </transition>
+</component>

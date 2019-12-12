@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <displayList>
+    <component id="n0_gyc2" name="n0" src="gyc24" xy="188,269"/>
+  </displayList>
+  <transition name="t0" autoPlay="true">
+    <item time="0" type="Scale" target="n0_gyc2" tween="true" startValue="0.75,0.75" endValue="1,0.86" duration="6"/>
+  </transition>
+</component>

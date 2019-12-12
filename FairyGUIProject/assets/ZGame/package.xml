@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="dh0i1y4v">
+  <resources>
+    <image id="lfw00" name="222.png" path="/骨牌/"/>
+    <image id="lfw0z" name="kb_0_0.png" path="/骨牌/"/>
+    <image id="lfw010" name="kb_0_10.png" path="/骨牌/"/>
+    <image id="lfw011" name="kb_0_11.png" path="/骨牌/"/>
+    <image id="lfw012" name="kb_0_12.png" path="/骨牌/"/>
+    <image id="lfw013" name="kb_0_2.png" path="/骨牌/"/>
+    <image id="lfw014" name="kb_0_4.png" path="/骨牌/"/>
+    <image id="lfw015" name="kb_0_5.png" path="/骨牌/"/>
+    <image id="lfw016" name="kb_0_6.png" path="/骨牌/"/>
+    <image id="lfw017" name="kb_0_7.png" path="/骨牌/"/>
+    <image id="lfw018" name="kb_0_8.png" path="/骨牌/"/>
+    <image id="lfw019" name="kb_0_9.png" path="/骨牌/"/>
+    <image id="lfw01a" name="kb_1_10.png" path="/骨牌/"/>
+    <image id="lfw01b" name="kb_1_4.png" path="/骨牌/"/>
+    <image id="lfw01c" name="kb_1_6.png" path="/骨牌/"/>
+    <image id="lfw01d" name="kb_1_7.png" path="/骨牌/"/>
+    <image id="lfw01e" name="kb_1_8.png" path="/骨牌/"/>
+    <image id="lfw01f" name="kb_2_10.png" path="/骨牌/"/>
+    <image id="lfw01g" name="kb_2_11.png" path="/骨牌/"/>
+    <image id="lfw01h" name="kb_2_12.png" path="/骨牌/"/>
+    <image id="lfw01i" name="kb_2_2.png" path="/骨牌/"/>
+    <image id="lfw01j" name="kb_2_4.png" path="/骨牌/"/>
+    <image id="lfw01k" name="kb_2_5.png" path="/骨牌/"/>
+    <image id="lfw01l" name="kb_2_6.png" path="/骨牌/"/>
+    <image id="lfw01m" name="kb_2_7.png" path="/骨牌/"/>
+    <image id="lfw01n" name="kb_2_8.png" path="/骨牌/"/>
+    <image id="lfw01o" name="kb_2_9.png" path="/骨牌/"/>
+    <image id="lfw01p" name="kb_3_1.png" path="/骨牌/"/>
+    <image id="lfw01q" name="kb_3_10.png" path="/骨牌/"/>
+    <image id="lfw01r" name="kb_3_3.png" path="/骨牌/"/>
+    <image id="lfw01s" name="kb_3_4.png" path="/骨牌/"/>
+    <image id="lfw01t" name="kb_3_6.png" path="/骨牌/"/>
+    <image id="lfw01u" name="kb_3_7.png" path="/骨牌/"/>
+    <image id="lfw01v" name="kb_3_8.png" path="/骨牌/"/>
+    <image id="lfw01x" name="zjm_anniubuqiang.png" path="/" exported="true"/>
+    <image id="lfw01y" name="zjm_banker.png" path="/" exported="true" scale="9grid" scale9grid="10,10,107,36"/>
+    <image id="lfw01z" name="zjm_buqiang.png" path="/" exported="true"/>
+    <image id="lfw020" name="zjm_dengdai.png" path="/" exported="true"/>
+    <image id="lfw021" name="zjm_ditang.jpg" path="/" exported="true"/>
+    <image id="lfw022" name="zjm_dizhujinedi.png" path="/" exported="true"/>
+    <image id="lfw023" name="zjm_djsdi.png" path="/" exported="true"/>
+    <image id="lfw024" name="zjm_djszhuangquan.png" path="/" exported="true"/>
+    <image id="lfw025" name="zjm_fanhui.png" path="/" exported="true"/>
+    <image id="lfw026" name="zjm_huoquchouma.png" path="/" exported="true"/>
+    <image id="lfw027" name="zjm_kaishiyouxi.png" path="/" exported="true"/>
+    <image id="lfw028" name="zjm_liaotianyuyin.png" path="/" exported="true"/>
+    <image id="lfw029" name="zjm_liaotianyuyinanniu.png" path="/" exported="true"/>
+    <image id="lfw02a" name="zjm_lose.png" path="/" exported="true" scale="9grid" scale9grid="10,10,108,36"/>
+    <image id="lfw02b" name="zjm_OK.png" path="/" exported="true"/>
+    <image id="lfw02c" name="zjm_qiangzhuang.png" path="/" exported="true"/>
+    <image id="lfw02d" name="zjm_shuzi.png" path="/" exported="true"/>
+    <image id="lfw02e" name="zjm_tisi.png" path="/" exported="true"/>
+    <image id="lfw02f" name="zjm_touxiangkuang.png" path="/" exported="true" scale="9grid" scale9grid="11,13,61,58"/>
+    <image id="lfw02g" name="zjm_touxiangkuang_1.png" path="/" exported="true"/>
+    <image id="lfw02h" name="zjm_touxiangkuang_1_1.png" path="/" exported="true" scale="9grid" scale9grid="15,11,159,59"/>
+    <image id="lfw02i" name="zjm_touxiangkuang_2.png" path="/" exported="true" scale="9grid" scale9grid="10,14,69,114"/>
+    <image id="lfw02j" name="zjm_touxiangkuang_2_2.png" path="/" exported="true" scale="9grid" scale9grid="15,14,60,114"/>
+    <image id="lfw02k" name="zjm_touxiangkuangxiao.png" path="/" exported="true"/>
+    <image id="lfw02l" name="zjm_win.png" path="/" exported="true" scale="9grid" scale9grid="10,10,108,36" smoothing="false"/>
+    <image id="lfw02m" name="zjm_xiazhuanniu.png" path="/" exported="true"/>
+    <image id="lfw02n" name="zjm_yingzi.png" path="/" exported="true"/>
+    <image id="lfw02o" name="zjm_yingzihe.png" path="/" exported="true"/>
+    <image id="lfw02p" name="zjm_you.png" path="/" exported="true"/>
+    <image id="lfw02q" name="zjm_zhuangjia.png" path="/" exported="true"/>
+    <image id="lfw02r" name="zjm_zhuangjiabiaozhi.png" path="/" exported="true"/>
+    <image id="lfw02s" name="zjm_zhunbeianniu.png" path="/" exported="true"/>
+    <image id="lfw02t" name="zjm_zhuodi.png" path="/" exported="true"/>
+    <image id="lfw02u" name="zjm_zhuozi.png" path="/" exported="true"/>
+    <image id="lfw02v" name="zjm_zuo.png" path="/" exported="true"/>
+    <image id="lfw02w" name="zjm_zupaiwancheng.png" path="/" exported="true"/>
+    <component id="lfw02x" name="RoomBgTMP.xml" path="/PaijiuRoom/"/>
+    <image id="lfw02z" name="guo.png" path="/"/>
+    <image id="lfw030" name="brc_shu.png" path="/骨牌/"/>
+    <image id="lfw031" name="brc_ying.png" path="/骨牌/"/>
+    <image id="lfw032" name="jzy_logo.png" path="/加载/" scale9grid="10,10,20,20"/>
+    <image id="lfw033" name="jzy_zhuan.png" path="/加载/"/>
+    <image id="lfw034" name="dt_cmdikuang.png" path="/" exported="true" scale="9grid" scale9grid="37,9,74,18"/>
+    <image id="lfw037" name="dt_chouma.png" path="/加载/"/>
+    <image id="lfw03a" name="tiao.png" path="/加载/" scale="9grid" scale9grid="21,0,325,29"/>
+    <image id="lfw03b" name="tiao_di.png" path="/加载/"/>
+    <component id="lfw03c" name="Slider_下注_grip.xml" path="/anniu/"/>
+    <component id="lfw03d" name="Slider_下注.xml" path="/anniu/"/>
+    <component id="lfw03e" name="Player_heng.xml" path="/Player/"/>
+    <component id="lfw03f" name="Player_shu.xml" path="/Player/"/>
+    <component id="dagi3g" name="PlayerLayer.xml" path="/Player/" exported="true"/>
+    <component id="dagi3h" name="btn_buqiang.xml" path="/anniu/"/>
+    <component id="dagi3i" name="btn_zhunbei.xml" path="/anniu/"/>
+    <component id="dagi3j" name="btn_tishi.xml" path="/anniu/"/>
+    <component id="dagi3k" name="btn_zupaiwancheng.xml" path="/anniu/"/>
+    <component id="dagi3l" name="btn_xiazhuwancheng.xml" path="/anniu/"/>
+    <component id="dagi3m" name="btn_qiangzhuang.xml" path="/anniu/"/>
+    <component id="dagi3o" name="cmp_loding.xml" path="/加载/" exported="true"/>
+    <component id="dagi3p" name="PlayerResLayer.xml" path="/Player/" exported="true"/>
+    <component id="dagi3q" name="cmp_dizhu.xml" path="/Player/"/>
+    <component id="dagi3r" name="cmp_dizhuGroup.xml" path="/Player/"/>
+    <component id="dagi3s" name="cmp_res.xml" path="/Player/"/>
+    <component id="dagi3t" name="cmp_operation.xml" path="/OPeartion/" exported="true"/>
+    <component id="dagi3w" name="btn_paijiu.xml" path="/anniu/"/>
+    <component id="dagi3x" name="cmp_paijiu.xml" path="/paijiu/" exported="true"/>
+    <component id="dagi3y" name="cmp_pai.xml" path="/paijiu/"/>
+    <component id="dagi3z" name="cmp_room.xml" path="/PaijiuRoom/" exported="true"/>
+    <component id="dagi40" name="cmp_daojishi.xml" path="/加载/"/>
+    <component id="dagi41" name="btn_exit.xml" path="/anniu/"/>
+    <component id="dagi42" name="btn_chat.xml" path="/anniu/"/>
+    <image id="dagi43" name="wenx.png" path="/anniu/"/>
+    <component id="dagi44" name="btn_fenxiang.xml" path="/anniu/"/>
+    <image id="dagi45" name="lixian.png" path="/"/>
+    <image id="dagi46" name="btn_bangz.png" path="/anniu/"/>
+    <component id="dagi47" name="btn_bangzhu.xml" path="/anniu/"/>
+    <image id="dagi48" name="title (2).png" path="/"/>
+    <component id="dagi49" name="cmp_result.xml" path="/PaijiuRoom/" exported="true"/>
+    <component id="dagi4b" name="btn_zhanji_fenxiang.xml" path="/anniu/"/>
+    <component id="dagi4c" name="btn_zhanji_fanhuidating.xml" path="/anniu/"/>
+    <image id="dagi4d" name="dt_touxiangkuang.png" path="/PaijiuRoom/" scale="9grid" scale9grid="24,24,48,48"/>
+    <component id="dagi4e" name="Player_result_shu.xml" path="/Player/"/>
+    <image id="dagi4f" name="waikuang.png" path="/PaijiuRoom/"/>
+    <image id="dagi4g" name="choumafont.png" path="/PaijiuRoom/"/>
+    <component id="dagi4j" name="cmp_zhanji_item.xml" path="/PaijiuRoom/" exported="true"/>
+    <image id="dagi4l" name="LoseScore_atlas.png" path="/font/" exported="true"/>
+    <font id="dagi4k" name="LoseScore.fnt" path="/font/" exported="true" texture="dagi4l"/>
+    <image id="dagi4n" name="WinScore_atlas.png" path="/font/" exported="true"/>
+    <font id="dagi4m" name="WinScore.fnt" path="/font/" exported="true" texture="dagi4n"/>
+    <image id="dagi4o" name="dayj.png" path="/PaijiuRoom/" exported="true"/>
+    <image id="g3kp4p" name="txt_invite_wx.png" path="/PaijiuRoom/"/>
+    <component id="g3kp4q" name="btn_yaoqing_wichat.xml" path="/PaijiuRoom/"/>
+    <component id="jfy24r" name="cmp_xiazhu.xml" path="/anniu/"/>
+    <image id="jfy24s" name="tiao_di.png" path="/anniu/"/>
+    <image id="jfy24t" name="btn_jia.png" path="/anniu/"/>
+    <image id="jfy24u" name="btn_jian.png" path="/anniu/"/>
+    <component id="jfy24v" name="btn_jia.xml" path="/anniu/"/>
+    <component id="jfy24w" name="btn_jian.xml" path="/anniu/"/>
+    <image id="o0oy4x" name="pj_19.png" path="/骨牌/gupai/" exported="true" scale="" scale9grid="8,19,60,174"/>
+    <image id="o0oy4y" name="pj_20.png" path="/骨牌/gupai/" exported="true" scale="" scale9grid="20,51,40,102"/>
+    <image id="o0oy4z" name="pj_21.png" path="/骨牌/gupai/" exported="true" scale=""/>
+    <image id="o0oy50" name="pj_0.png" path="/骨牌/gupai/" exported="true" scale=""/>
+    <image id="o0oy51" name="pj_1.png" path="/骨牌/gupai/" exported="true" scale=""/>
+    <image id="o0oy52" name="pj_2.png" path="/骨牌/gupai/" exported="true" scale="" scale9grid="4,10,62,186" gridTile="15"/>
+    <image id="o0oy53" name="pj_3.png" path="/骨牌/gupai/" exported="true" scale=""/>
+    <image id="o0oy54" name="pj_4.png" path="/骨牌/gupai/" exported="true" scale=""/>
+    <image id="o0oy55" name="pj_5.png" path="/骨牌/gupai/" exported="true" scale=""/>
+    <image id="o0oy56" name="pj_6.png" path="/骨牌/gupai/" exported="true" scale=""/>
+    <image id="o0oy57" name="pj_7.png" path="/骨牌/gupai/" exported="true" scale=""/>
+    <image id="o0oy58" name="pj_8.png" path="/骨牌/gupai/" exported="true" scale=""/>
+    <image id="o0oy59" name="pj_9.png" path="/骨牌/gupai/" exported="true" scale="" scale9grid="7,19,62,175"/>
+    <image id="o0oy5a" name="pj_10.png" path="/骨牌/gupai/" exported="true" scale=""/>
+    <image id="o0oy5b" name="pj_11.png" path="/骨牌/gupai/" exported="true" scale=""/>
+    <image id="o0oy5c" name="pj_12.png" path="/骨牌/gupai/" exported="true" scale=""/>
+    <image id="o0oy5d" name="pj_13.png" path="/骨牌/gupai/" exported="true" scale=""/>
+    <image id="o0oy5e" name="pj_14.png" path="/骨牌/gupai/" exported="true" scale=""/>
+    <image id="o0oy5f" name="pj_15.png" path="/骨牌/gupai/" exported="true" scale=""/>
+    <image id="o0oy5g" name="pj_16.png" path="/骨牌/gupai/" exported="true" scale=""/>
+    <image id="o0oy5h" name="pj_17.png" path="/骨牌/gupai/" exported="true" scale=""/>
+    <image id="o0oy5i" name="pj_18.png" path="/骨牌/gupai/" exported="true" scale="" scale9grid="7,19,60,175"/>
+    <image id="7xaf5j" name="waitOther.png" path="/OPeartion/"/>
+    <image id="o0f45k" name="dice_1.png" path="/dice/" exported="true"/>
+    <image id="o0f45l" name="dice_2.png" path="/dice/" exported="true"/>
+    <image id="o0f45m" name="dice_3.png" path="/dice/" exported="true"/>
+    <image id="o0f45n" name="dice_4.png" path="/dice/" exported="true"/>
+    <image id="o0f45o" name="dice_5.png" path="/dice/" exported="true"/>
+    <image id="o0f45p" name="dice_6.png" path="/dice/" exported="true"/>
+    <image id="kwet5q" name="proto2.png" path="/PaijiuRoom/" exported="true"/>
+    <component id="kwet5r" name="cmp_help.xml" path="/PaijiuRoom/"/>
+    <image id="kwet5s" name="base.png" path="/PaijiuRoom/" exported="true"/>
+    <component id="ohcb5t" name="btn_yaoqing.xml" path="/anniu/"/>
+    <component id="ohcb5u" name="btn_tianjiajiqi.xml" path="/anniu/"/>
+  </resources>
+  <publish name="ZGame" genCode="true"/>
+</packageDescription>
