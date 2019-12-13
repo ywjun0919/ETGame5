@@ -25,6 +25,9 @@ namespace ILRuntime.Runtime.Generated
             args = new Type[]{typeof(FairyGUI.EventCallback0)};
             method = type.GetMethod("Add", flag, null, args, null);
             app.RegisterCLRMethodRedirection(method, Add_0);
+            args = new Type[]{typeof(FairyGUI.EventCallback1)};
+            method = type.GetMethod("Add", flag, null, args, null);
+            app.RegisterCLRMethodRedirection(method, Add_1);
 
 
         }
@@ -38,6 +41,25 @@ namespace ILRuntime.Runtime.Generated
 
             ptr_of_this_method = ILIntepreter.Minus(__esp, 1);
             FairyGUI.EventCallback0 @callback = (FairyGUI.EventCallback0)typeof(FairyGUI.EventCallback0).CheckCLRTypes(StackObject.ToObject(ptr_of_this_method, __domain, __mStack));
+            __intp.Free(ptr_of_this_method);
+
+            ptr_of_this_method = ILIntepreter.Minus(__esp, 2);
+            FairyGUI.EventListener instance_of_this_method = (FairyGUI.EventListener)typeof(FairyGUI.EventListener).CheckCLRTypes(StackObject.ToObject(ptr_of_this_method, __domain, __mStack));
+            __intp.Free(ptr_of_this_method);
+
+            instance_of_this_method.Add(@callback);
+
+            return __ret;
+        }
+
+        static StackObject* Add_1(ILIntepreter __intp, StackObject* __esp, IList<object> __mStack, CLRMethod __method, bool isNewObj)
+        {
+            ILRuntime.Runtime.Enviorment.AppDomain __domain = __intp.AppDomain;
+            StackObject* ptr_of_this_method;
+            StackObject* __ret = ILIntepreter.Minus(__esp, 2);
+
+            ptr_of_this_method = ILIntepreter.Minus(__esp, 1);
+            FairyGUI.EventCallback1 @callback = (FairyGUI.EventCallback1)typeof(FairyGUI.EventCallback1).CheckCLRTypes(StackObject.ToObject(ptr_of_this_method, __domain, __mStack));
             __intp.Free(ptr_of_this_method);
 
             ptr_of_this_method = ILIntepreter.Minus(__esp, 2);

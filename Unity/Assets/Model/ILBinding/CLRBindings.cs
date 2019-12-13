@@ -84,6 +84,13 @@ namespace ILRuntime.Runtime.Generated
             ETModel_PlayerComponent_Binding.Register(app);
             FairyGUI_Controller_Binding.Register(app);
             FairyGUI_Transition_Binding.Register(app);
+            System_Collections_Generic_Dictionary_2_Int32_Int32_Binding.Register(app);
+            System_Collections_Generic_List_1_Int32_Binding.Register(app);
+            System_Collections_Generic_Dictionary_2_Int32_Int32_Binding_Enumerator_Binding.Register(app);
+            System_Collections_Generic_KeyValuePair_2_Int32_Int32_Binding.Register(app);
+            System_Collections_Generic_Dictionary_2_Int32_String_Binding.Register(app);
+            UnityEngine_Vector3_Binding.Register(app);
+            FairyGUI_EventContext_Binding.Register(app);
             ETModel_Define_Binding.Register(app);
             ETModel_ResourcesComponent_Binding.Register(app);
             ETModel_ConfigAttribute_Binding.Register(app);
@@ -131,11 +138,10 @@ namespace ILRuntime.Runtime.Generated
             System_Collections_Generic_Stack_1_ILTypeInstance_Binding.Register(app);
             FairyGUI_UIConfig_Binding.Register(app);
             UnityEngine_Color_Binding.Register(app);
-            UnityEngine_Application_Binding.Register(app);
+            ETModel_FairyGuiHelper_Binding.Register(app);
             System_Collections_Generic_Stack_1_ILTypeInstance_Binding_Enumerator_Binding.Register(app);
             System_Collections_Generic_Dictionary_2_Type_ILTypeInstance_Binding_KeyCollection_Binding.Register(app);
             System_Collections_Generic_Dictionary_2_Type_ILTypeInstance_Binding_KeyCollection_Binding_Enumerator_Binding.Register(app);
-            UnityEngine_AssetBundle_Binding.Register(app);
             System_Collections_Generic_Dictionary_2_String_ILTypeInstance_Binding.Register(app);
             UnityEngine_LayerMask_Binding.Register(app);
             System_Collections_Generic_Dictionary_2_String_ILTypeInstance_Binding_ValueCollection_Binding.Register(app);

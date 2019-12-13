@@ -19,6 +19,7 @@ namespace ETModel
 
             // 注册委托
             appdomain.DelegateManager.RegisterMethodDelegate<int,FairyGUI.GObject>();
+            appdomain.DelegateManager.RegisterMethodDelegate<FairyGUI.EventContext>();
             appdomain.DelegateManager.RegisterMethodDelegate<List<object>>();
 			appdomain.DelegateManager.RegisterMethodDelegate<AChannel, System.Net.Sockets.SocketError>();
 			appdomain.DelegateManager.RegisterMethodDelegate<byte[], int, int>();
